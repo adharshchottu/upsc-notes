@@ -15,28 +15,28 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+URL = "/"
+name = "Home"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Themefisher"
 description = "This is meta description"
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
+heading = "#StickToThePlan"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
 heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
