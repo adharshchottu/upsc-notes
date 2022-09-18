@@ -41,11 +41,11 @@ image = "images/2020-landscape-1-2.png"
 [params.blog]
 heading = "UPSC notes and questions for mains"
 [params.call_to_action]
-button_label = "Contact Us"
-button_url = "contact"
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
-enable = false
-title = "Contact us for more information."
+button_label = "Log now"
+button_url = "https://dodb-upsc.web.app/"
+content = "Log of daily activities"
+enable = true
+title = "Log Book"
 [params.footer]
 address = "you don't need a backup"
 content = "keep calm and stay focused."
