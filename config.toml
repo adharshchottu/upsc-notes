@@ -47,11 +47,11 @@ content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean comm
 enable = false
 title = "Contact us for more information."
 [params.footer]
-address = "123 Main Street <br> New York, NY 10001"
-content = "This may be a good place to introduce yourself and your site or include some credits."
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-title = "About This Site"
+address = "you don't need a backup"
+content = "keep calm and stay focused."
+copyright = "#operationMEA"
+hours = ""
+title = "Do or Die"
 [params.gallery]
 enable = true
 [[params.gallery.gallery_item]]
