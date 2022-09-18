@@ -12,24 +12,26 @@ title = "UPSC Notes"
 unsafe = true
 [[menu.desktop]]
 URL = "contact"
-name = "Contact"
+name = "DoDb Log"
+url = "https://dodb-upsc.web.app/"
 weight = 1
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
+URL = "contact"
+name = "DoDb Log"
+url = "https://dodb-upsc.web.app/"
+weight = 4
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 3
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "/"
+name = "Home"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
