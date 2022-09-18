@@ -15,13 +15,13 @@ tags:
 description: This is meta description
 
 ---
-# **Modern History**
+## **Modern History**
 
 1. The Revolt of 1857 was the culmination of the recurrent big and small local rebellions that had occurred in the preceding hundred years of British rule. **\[2019\]**
 2. Why indentured labour was taken by the British from India to other colonies? Have they been able to preserve their cultural identity over there? **\[2018\]**
 3. Clarify how mid-eighteenth century India was beset with the specter of a fragmented polity. **\[2017\]**
 
-# **Freedom Struggle**
+## **Freedom Struggle**
 
  1. Many voices had strengthened and enriched the nationalist movement during the Gandhian phase. Elaborate. **\[2019\]**
  2. Why did the ‘Moderates’ fail to carry conviction with the nation about their proclaimed ideology and political goals by the end of the nineteenth century? **\[2017\]**
@@ -38,7 +38,7 @@ description: This is meta description
 13. Several foreigners made India their homeland and participated in various movements. Analyze their role in the Indian struggle for freedom. **\[2013\]**
 14. In many ways, Lord Dalhousie was the founder of modern India. Elaborate. **\[2013\]**
 
-# **Post-Independence**
+## **Post-Independence**
 
  1. Examine the linkages between the nineteenth century’s “Indian Renaissance” and the emergence of national identity. **\[2019\]**
  2. Throw light on the significance of the thoughts of Mahatma Gandhi in the present times. **\[2018\]**
@@ -51,7 +51,7 @@ description: This is meta description
  9. Analyze the circumstances that led to Tashkent Agreement in 1966. Discuss the highlights of the agreement. **\[2013\]**
 10. Critically examine the compulsions which prompted India to play decisive roles in the emergence of Bangladesh. **\[2013\]**
 
-# **World History**
+## **World History**
 
  1. Explain how the foundation of the modern world was laid by the American and French Revolutions. **\[2019\]**
  2. The anti-colonial struggles in West Africa were led by the new elite of Western-educated Africans. Examine. **\[2016\]**
@@ -62,5 +62,5 @@ description: This is meta description
  7. The New Economic Policy – 1921 of Lenin had influenced the policies adopted by India soon after independence. Evaluate. **\[2014\]**
  8. “Latecomer” Industrial revolution in Japan involved certain factors that were markedly different from what west had experienced. **\[2013\]**
  9. Africa was chopped into states artificially created by accident of European competition. Analyse. **\[2013\]**
-10. American Revolution was an economic revolt against mercantilism. Substantiate**. \[2013\]**
+10. American Revolution was an economic revolt against mercantilism. Substantiate. **\[2013\]**
 11. What policy instruments were deployed to contain the great economic depression? **\[2013\]**
