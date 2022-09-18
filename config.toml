@@ -11,8 +11,8 @@ title = "UPSC Notes"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
-URL = "contact"
-name = "Contact"
+URL = "https://dodb-upsc.web.app/"
+name = "DoDb Log"
 weight = 1
 [[menu.main]]
 URL = "/"
@@ -27,8 +27,8 @@ URL = "blog"
 name = "Blog"
 weight = 3
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "https://dodb-upsc.web.app/"
+name = "DoDb"
 weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
