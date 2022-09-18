@@ -22,7 +22,7 @@ Currently, most of the population depends on the agriculture sector. but the agr
 
 If the increasing demand goes beyond the supply, inflation will eat all the benefits of the growth. So the lower section of the society must have increased purchasing power along with affordable basic necessities. The core concept is to provide improved living conditions and "well-beingness".
 
-Inclusive growth should lead to:
+#### Inclusive growth should lead to:
 
 * Employment opportunities for the mass at the entry level, providing livelihood, means of income, increasing their purchasing power and improving their "well-beingness". This should result in reducing absolute poverty levels.
 * Reduction of inter-/inra-region imbalances.
@@ -32,7 +32,7 @@ Inclusive growth should lead to:
 * A gradual shift away from the excessive economic dependence on the agricultural sector through employment-driven and positive migration.
 * Increased vocational employment.
 
-  Way ahead to achieve inclusive growth:
+  #### Way ahead to achieve inclusive growth:
 * More viable and cheap transport infrastructure both for people and goods
 * Improved public services(health care and education) and public utilities.
 * Re-energizing the Industrial Training Institutes (ITIs) for skill development.
