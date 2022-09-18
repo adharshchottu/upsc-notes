@@ -20,16 +20,6 @@ sections:
 - type: heading
   label: Others Pages
 - type: directory
-  path: content/about
-  label: About
-  create: none
-  match: "*"
-- type: directory
-  path: content/contact
-  label: Contact
-  create: none
-  match: "*"
-- type: directory
   path: content
   label: All Pages
   create: all
