@@ -33,13 +33,13 @@ weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
-description = "This is meta description"
+author = "adharsh"
+description = "UPSC notes"
 [params.banner]
 heading = "#StickToThePlan"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "UPSC notes and questions for mains"
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
