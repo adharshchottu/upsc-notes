@@ -44,7 +44,7 @@ heading = "UPSC notes and questions for mains"
 button_label = "Contact Us"
 button_url = "contact"
 content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
-enable = true
+enable = false
 title = "Contact us for more information."
 [params.footer]
 address = "123 Main Street <br> New York, NY 10001"
