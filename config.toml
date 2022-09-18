@@ -12,26 +12,24 @@ title = "UPSC Notes"
 unsafe = true
 [[menu.desktop]]
 URL = "contact"
-name = "DoDb Log"
-url = "https://dodb-upsc.web.app/"
+name = "Contact"
 weight = 1
 [[menu.main]]
-URL = "contact"
-name = "DoDb Log"
-url = "https://dodb-upsc.web.app/"
-weight = 4
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+URL = "/"
+name = "Home"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -52,7 +50,7 @@ title = "Log Book"
 address = "you don't need a backup"
 content = "keep calm and stay focused."
 copyright = "#operationMEA"
-hours = ""
+hours = "until and unless you are in the ministry of external affairs"
 title = "Do or Die"
 [params.gallery]
 enable = true
