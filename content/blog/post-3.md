@@ -5,6 +5,7 @@ image: images/2020-three-quarters-2.png
 author:
 - augu
 categories:
+- GS1
 - questions
 - history
 tags:
