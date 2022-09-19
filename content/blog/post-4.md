@@ -5,6 +5,7 @@ image: images/2020-three-quarters-4.png
 author:
 - augu
 categories:
+- GS1
 - questions
 - geography
 tags:
