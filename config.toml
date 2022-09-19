@@ -49,7 +49,7 @@ copyright = "#operationMEA"
 hours = "until and unless you are in the ministry of external affairs"
 title = "Do or Die"
 [params.gallery]
-enable = true
+enable = false
 [[params.gallery.gallery_item]]
 image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
