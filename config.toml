@@ -6,7 +6,7 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 summaryLength = "10"
-theme = "https://github.com/adharshchottu/upsc-notes-theme"
+theme = "github.com/adharshchottu/upsc-notes-theme"
 title = "UPSC Notes"
 [markup.goldmark.renderer]
 unsafe = true
