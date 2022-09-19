@@ -1,6 +1,6 @@
 +++
 author = []
-categories = ["questions", "indian society"]
+categories = ["GS1", "questions", "indian society"]
 date = 2022-09-18T18:30:00Z
 description = "Indian Society Questions"
 image = ""
