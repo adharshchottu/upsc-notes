@@ -18,9 +18,11 @@ description: This is meta description
 ---
 ## **Modern History**
 
-1. The Revolt of 1857 was the culmination of the recurrent big and small local rebellions that had occurred in the preceding hundred years of British rule. **\[2019\]**
-2. Why indentured labour was taken by the British from India to other colonies? Have they been able to preserve their cultural identity over there? **\[2018\]**
-3. Clarify how mid-eighteenth century India was beset with the specter of a fragmented polity. **\[2017\]**
+1. Why did the armies of the British East India company – mostly comprising of Indian soldiers – win consistently against the more numerous and better equipped armies of then Indian rulers? Give reasons. **\[2022\]**
+2. Why was there a sudden spurt in famines in colonial India since the mid-18th century? Give reasons. **\[2022\]**
+3. The Revolt of 1857 was the culmination of the recurrent big and small local rebellions that had occurred in the preceding hundred years of British rule. **\[2019\]**
+4. Why indentured labour was taken by the British from India to other colonies? Have they been able to preserve their cultural identity over there? **\[2018\]**
+5. Clarify how mid-eighteenth century India was beset with the specter of a fragmented polity. **\[2017\]**
 
 ## **Freedom Struggle**
 
@@ -41,16 +43,17 @@ description: This is meta description
 
 ## **Post-Independence**
 
- 1. Examine the linkages between the nineteenth century’s “Indian Renaissance” and the emergence of national identity. **\[2019\]**
- 2. Throw light on the significance of the thoughts of Mahatma Gandhi in the present times. **\[2018\]**
- 3. Discuss whether the formation of new states in recent times is beneficial or not for the economy of India. **\[2018\]**
- 4. Highlight the importance of the new objectives that got added to the vision of Indian Independence since the twenties of the last century. **\[2017\]**
- 5. Distinguish between religiousness/religiosity and communalism in post-independent India giving one example of how the former has got transformed into the latter in independent India. **\[2017\]**
- 6. Critically discuss the objectives of Bhoodan and Gramdan movements initiated by Acharya Vinoba Bhave and their success. **\[2013\]**
- 7. Write a critical note on the evolution and significance of the slogan “Jai Jawana Jai Kisan”. **\[2013\]**
- 8. Discuss the contribution of Maulana Abul Kalam Azad to pre-and post-independent India. **\[2013\]**
- 9. Analyze the circumstances that led to Tashkent Agreement in 1966. Discuss the highlights of the agreement. **\[2013\]**
-10. Critically examine the compulsions which prompted India to play decisive roles in the emergence of Bangladesh. **\[2013\]**
+ 1. The political and administrative reorganization of states and territories has been a continuous ongoing process since the mid-nineteenth century. Discuss with examples. **\[2022\]**
+ 2. Examine the linkages between the nineteenth century’s “Indian Renaissance” and the emergence of national identity. **\[2019\]**
+ 3. Throw light on the significance of the thoughts of Mahatma Gandhi in the present times. **\[2018\]**
+ 4. Discuss whether the formation of new states in recent times is beneficial or not for the economy of India. **\[2018\]**
+ 5. Highlight the importance of the new objectives that got added to the vision of Indian Independence since the twenties of the last century. **\[2017\]**
+ 6. Distinguish between religiousness/religiosity and communalism in post-independent India giving one example of how the former has got transformed into the latter in independent India. **\[2017\]**
+ 7. Critically discuss the objectives of Bhoodan and Gramdan movements initiated by Acharya Vinoba Bhave and their success. **\[2013\]**
+ 8. Write a critical note on the evolution and significance of the slogan “Jai Jawana Jai Kisan”. **\[2013\]**
+ 9. Discuss the contribution of Maulana Abul Kalam Azad to pre-and post-independent India. **\[2013\]**
+10. Analyze the circumstances that led to Tashkent Agreement in 1966. Discuss the highlights of the agreement. **\[2013\]**
+11. Critically examine the compulsions which prompted India to play decisive roles in the emergence of Bangladesh. **\[2013\]**
 
 ## **World History**
 
