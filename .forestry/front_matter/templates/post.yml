@@ -25,4 +25,5 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/indian-economy-questions.md
 - content/blog/indian-society-questions.md
