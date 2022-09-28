@@ -1,7 +1,7 @@
 +++
 author = ["augu"]
 categories = ["GS3", "questions", "Science and Technology"]
-date = 2022-09-26T18:30:00Z
+date = 2022-09-25T18:30:00Z
 description = "Science and Technology Questions"
 image = ""
 tags = ["Technology", "Science"]
