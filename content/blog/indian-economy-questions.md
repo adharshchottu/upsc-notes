@@ -1,5 +1,5 @@
 +++
-author = []
+author = ["augu"]
 categories = ["economics", "questions", "GS3"]
 date = 2022-09-26T18:30:00Z
 description = "Indian Economy Questions"
