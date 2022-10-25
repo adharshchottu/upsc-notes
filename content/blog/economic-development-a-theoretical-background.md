@@ -3,7 +3,6 @@ author = ["augu"]
 categories = ["gs3", "indian economy"]
 date = 2022-10-09T18:30:00Z
 description = "Economic development: a theoretical background"
-draft = true
 image = ""
 tags = ["economic development", "economic growth"]
 title = "Economic development: a theoretical background"
@@ -36,3 +35,11 @@ Economic growth can be described in terms of greater **commercialisation of econ
 If reduction in all three from a higher level to a lower level means definitely the development has taken place.
 
 **Jean Dreze** and **Amartya Sen** state, _"The opportunity to live the kind of lives that people value - and have reason to value - depends among other things on the nature and robustness of the environment. In this sense, development has to be environment-inclusive"_
+
+Purely economic growth need not necessary to be **_trickle down_** to economic development.
+
+**Jean Dreze** and **Amartya Sen** stated, _"Economic growth is indeed important, not for itself, but for what it allows a country to do with the resources that are generated, expanding both individual incomes and the public revenue that can be used to meet social commitments."_
+
+**_Dualism_** - the coexistence of developed and underdeveloped sectors in a country's economy side-by-side. In such an economy, one sector or subsector experiences perceptible growth, while the rest of the economy does not.
+
+## Economic Underdevelopment
