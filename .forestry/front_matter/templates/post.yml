@@ -26,6 +26,7 @@ fields:
   description: Meta description
 pages:
 - content/blog/agriculture-questions.md
+- content/blog/ancient-indian-history.md
 - content/blog/constitution-questions.md
 - content/blog/disaster-management-questions.md
 - content/blog/economic-development-a-theoretical-background.md
