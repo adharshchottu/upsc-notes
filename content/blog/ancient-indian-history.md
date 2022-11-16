@@ -3,7 +3,6 @@ author = ["augu"]
 categories = ["history", "GS1"]
 date = 2022-10-31T18:30:00Z
 description = "ancient indian history"
-draft = true
 image = ""
 tags = ["indian history", "ancient history"]
 title = "Ancient Indian History"
