@@ -27,4 +27,8 @@ Primitive man was on the way to a civilized life when he discovered how to make 
 
 1. Palaeolithic age(old stone age) -> The period when man used crude stone tools and weapons and led a nomadic life
 2. Neolithic age(New stone age) -> The period when man used polished stone tools, domesticated animals, took to agriculture and led a settled life in villages
-3. Chalcolithic age -> The transitional stage when both copper or bronze and stone tools and weapons were used and man led a settled life. "Chalco" is a greek word and means copper.
+3. Chalcolithic age -> The transitional stage when both copper or bronze and stone tools and weapons were used and the man led a settled life. "Chalco" is a greek word and means copper.
+
+## The cities
+
+A new stage in civilization was reached with the growth of cities. In India, with the excavation of two ancient cities, Harappa and Mohenjo-Daro, a highly developed ancient civilization of five thousand years ago was laid bare. Recently several more cities with a similar way of life as Harappa and Mohenjo-Daro have been excavated at Rupar, Lothal and Kalibangan. This civilization is known as the Indus valley civilization or the Harappa culture. It extended over a vast area including Sind, Punjab, Rajasthan, Kathiawar and Gujarat. From the excavations, we know that this was a highly developed civilization. The cities were well-planned and properly looked after. The streets were well laid-out and had an efficient drainage system. The houses were well-planned. The people of this civilization had developed contact with people of other civilizations of that time in west Asia. The great bath is the best-known building in Mohenjo-Daro.
