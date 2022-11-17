@@ -31,3 +31,15 @@ Primitive man was on the way to a civilized life when he discovered how to make 
 ## The cities
 
 A new stage in civilization was reached with the growth of cities. In India, with the excavation of two ancient cities, Harappa and Mohenjo-Daro, a highly developed ancient civilization of five thousand years ago was laid bare. Recently several more cities with a similar way of life as Harappa and Mohenjo-Daro have been excavated at Rupar, Lothal and Kalibangan. This civilization is known as the Indus valley civilization or the Harappa culture. It extended over a vast area including Sind, Punjab, Rajasthan, Kathiawar and Gujarat. From the excavations, we know that this was a highly developed civilization. The cities were well-planned and properly looked after. The streets were well laid-out and had an efficient drainage system. The houses were well-planned. The people of this civilization had developed contact with people of other civilizations of that time in west Asia. The great bath is the best-known building in Mohenjo-Daro.
+
+## The life of the people in the city
+
+The articles that have been found in the various cities of the Harappa culture show that the people in those days led fairly advanced life. They were good builders, skilful craftsmen manufacturers, clever farmers and big traders. They manufactured cotton and woollen cloth. They were fond of ornaments. Their pottery was beautiful. They traded with the people of Sumer(Iran). They use precise weights and measures and perhaps marked their goods with seals. They knew how to write but their writings have not been read so far. They seemed to have worshipped the mother goddess and held the pipal tree and the bull sacred. They had many types of amusements and children has their toys. The fall of the Harappa culture was a sad event because the culture which followed was not as advanced as that of the Harappa people.
+
+## The Aryan settlement
+
+The Aryans came to India from North-eastern Iran and the region around the Caspian sea. At first, they settled in Punjab, and then some of them moved southeastwards into the region north of Delhi. Their further eastward expansion into the Ganga valley was made easier by the discovery of the use of iron. Our knowledge of the Aryans is based on literary evidence - hymns, poems, and stories which they composed. Aryan society was divided into tribes headed by chiefs or kings. Through the _samiti_ and the _sabha_, the king consulted the members of the tribe. The tribe was split into small units comprising a number of families living in villages. The Aryan family was a patriarchal family. 
+
+When the Aryans came to India, they were a nomadic people. After they took to agriculture and settled down in villages, some of them began to specialize in certain crafts. This led to the exchange of goods between on village and another. The Aryans used horses which they had brought from Iran for drawing chariots.
+
+1. Patriarchal family - A family in which the oldest male member is regarded as the head.
