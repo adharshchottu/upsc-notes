@@ -43,3 +43,28 @@ Purely economic growth need not necessary to be **_trickle down_** to economic d
 **_Dualism_** - the coexistence of developed and underdeveloped sectors in a country's economy side-by-side. In such an economy, one sector or subsector experiences perceptible growth, while the rest of the economy does not.
 
 ## Economic Underdevelopment
+
+**Occupational distribution and underdevelopment**: It is widely held that the countries in which the primary sector provides employment to a large proportion of the labour force, are underdeveloped.
+
+**Low per capita income**: It can be an indicator of underdevelopment. An underdeveloped country is one in which per capita real income is low when compared to the USA, Western Europe, etc. But several Arab states have high GNP but still, there are poor and least developed communities.
+
+**Poverty**: Development is a process involving the elimination of poverty, income inequalities and unemployment. Thus underdevelopment is a situation characterised by the worst kind of deprivation.
+
+**Development potential**: **_Jacob Viner_** defines an underdeveloped country as one _"which has good potential prospects for using more capital or more labour or more available natural resources, or all of these, to support its population on a higher level of living, or if its per capita income level is already fairly high, to support a larger population on a not lower level of living."_
+
+**_The Indian planning commission defines an underdeveloped country as "one which is characterised by the coexistence, in greater or less degree, of unutilised or underutilized manpower on the one hand, and of unexploited natural resources on the other."_**
+
+### Common characteristics of underdeveloped or developing countries
+
+ 1. Low GNP per capita
+ 2. Scarcity of capital
+ 3. Rapid population growth and high dependency burden
+ 4. Low levels of productivity
+ 5. Technological backwardness
+ 6. High levels of unemployment and underemployment
+ 7. Lower level of human well-being
+ 8. Wide income inequalities
+ 9. High incidence of poverty
+10. Agrarian economy
+11. Lower participation in foreign trade
+12. Dependence
