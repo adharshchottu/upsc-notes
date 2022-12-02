@@ -56,8 +56,12 @@ Purely economic growth need not necessary to be **_trickle down_** to economic d
 
 ### Common characteristics of underdeveloped or developing countries
 
- 1. Low GNP per capita
- 2. Scarcity of capital
+ 1. **Low GNP per capita**
+
+    GNP per capita in underdeveloped countries is low and the difference between developed and underdeveloped is huge in terms of GNP.
+ 2. **Scarcity of capital**
+
+    The rate of capital formation is relatively low in most of the low-income underdeveloped economies due to widespread poverty. It has been argued by **_Ragnar Nurkse_** _that most underdeveloped countries have been caught in the vicious circle of poverty and thus their capacity to save is very low. On the demand side, the smaller size of the market acts as a disincentive and the potential savers indulge in wasteful consumption which they might not do if adequate investment opportunities are available._
  3. Rapid population growth and high dependency burden
  4. Low levels of productivity
  5. Technological backwardness
