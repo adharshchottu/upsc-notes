@@ -61,26 +61,34 @@ Purely economic growth need not necessary to be **_trickle down_** to economic d
     GNP per capita in underdeveloped countries is low and the difference between developed and underdeveloped is huge in terms of GNP.
  2. **Scarcity of capital**
 
-    The rate of capital formation is relatively low in most of the low-income underdeveloped economies due to widespread poverty. It has been argued by **_Ragnar Nurkse_** _that most underdeveloped countries have been caught in the vicious circle of poverty and thus their capacity to save is very low. On the demand side, the smaller size of the market acts as a disincentive and the potential savers indulge in wasteful consumption which they might not do if adequate investment opportunities are available._
- 3. Rapid population growth and high dependency burden
+    The rate of capital formation is relatively low in most of the low-income underdeveloped economies due to widespread poverty. **_Ragnar Nurkse_** has argued _that most underdeveloped countries have been caught in the vicious circle of poverty and thus their capacity to save is very low. On the demand side, the smaller size of the market acts as a disincentive and the potential savers indulge in wasteful consumption which they might not do if adequate investment opportunities are available._
+ 3. **Rapid population growth and high dependency burden**
 
     Fast growing population in third-world countries is both a cause and an effect of underdevelopment. Huge investments have to be made in order to raise the living standard of the growing population which indeed is difficult.
- 4. Low levels of productivity
+ 4. **Low levels of productivity**
 
     According to **_Todaro_**, _"low levels of living and low productivity are self-reinforcing social and economic phenomena in Third-world countries, and, as such, are the principal manifestations of and contributors to their underdevelopment."_
- 5. Technological backwardness
+ 5. **Technological backwardness**
 
     It may be due to a lack of R&D, but also intentional ignorance of the system to avoid replacing labour with machines in order to check unemployment.
- 6. High levels of unemployment and underemployment
+ 6. **High levels of unemployment and underemployment**
 
     _"almost 35 per cent of the combined urban and rural labour forces in poor nations is unutilised."_ underemployment is due to companies doesn't want to scale their business due to poverty and less demand in the third-world countries which is in fact due to unemployment.
- 7. Lower level of human well-being
+ 7. **Lower level of human well-being**
 
     three indices are used to measure a person's well-being: his current and prospective real income, his health and education attainments. all these are low in third-world countries.
- 8. Wide income inequalities
+ 8. **Wide income inequalities**
 
     World Development Report 2006 asserts that "From an equity perspective, the estimation of opportunities matters more than the distribution of outcomes." unequal opportunities are large within many underdeveloped countries. Inequalities in health and education in these countries often translate into unequal economic opportunities.
- 9. High incidence of poverty
-10. Agrarian economy
-11. Lower participation in foreign trade
-12. Dependence
+ 9. **High incidence of poverty**
+
+    Due to inequality in income distribution, poverty is widespread in underdeveloped countries. The World Bank now uses a poverty line of $1.9 (2011 purchasing power parity) a day a person to compare poverty levels.
+10. **Agrarian economy**
+
+    According to **_Harvey Leibenstein_**, _"underdeveloped economies are essentially agrarian in their character."  **J. K. Galbraith**_ has stated, _"a purely agricultural country is likely to be unprogressive even in its agriculture."_ More people are depending upon agriculture, but agriculture is not able to produce that much employment so it results in low productivity. Technological backwardness and population pressure on land also made agriculture a non-sustainable and non-productive economic activity. 
+11. **Lower participation in foreign trade**
+
+    Due to technological backwardness, underdeveloped countries are not able to produce for large exports and also lack of infrastructures such as transportation, trade organisation and banks with overseas branches prevents the growth of foreign trade. Due to the size of the country, the ratio between output and foreign trade cannot be measured properly, so according to **_Simon Kuznets_**, the effect of the size should first be quantified and eliminated. _"Once this adjustment is made, it becomes clear that the extent of participation in foreign trade by underdeveloped countries is distinctly lower than that of developed countries."_
+12. **Dependence**
+
+    Due to the colonial past, underdeveloped countries are forced to become primary producers than industries, thus less economical development. Also, most of the population in underdeveloped countries are orthodox and traditional in nature and hardly make an effort to change the outdated socio-economic relations. As compared to the developed countries, human capital is also far less developed in the third world countries. And moreover, underdeveloped countries are soft states, that have poor legal and legislative systems and powerful people regulating all affairs and these in return are obstacles to economic development.
