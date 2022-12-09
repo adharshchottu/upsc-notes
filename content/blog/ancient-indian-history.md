@@ -79,3 +79,21 @@ After the Kalinga war, Ashoka decided not to fight any more wars. He was a Buddh
 ### Administration, Society and Culture
 
 Kautilya's Arthashastra and the account of Megasthenes are the two literary sources for Chandragupta's reign. The edicts of Ashoka provide information on Ashoka's ideas about dharma, government, social behaviour and other matters. The Mauryan empire was probably divided into districts. Groups of villages formed smaller administrative units. Various officers looked after the administration in the districts. The work was divided into many departments under a head at Pataliputra. Ashoka started a special group of officers- _dharma-mahamatras_. He maintained friendly relations with a number of neighbouring countries. From Megasthenes, we learnt a great deal about the capital city of Pataliputra and about society. Megasthenes was the ambassador of Seleucus Nicator, a greek governor. The Ashokan pillars on which edicts were inscribed are beautiful specimens of Mauryan art. The pillar at Sarnath had four lions carved on top, this was taken as the national emblem when India got independence in 1947. The inability of the rulers after Ashoka and the vastness of the empire made the Mauryan empire break down and was conquered by other kings. Mahindra, son of Ashoka persuaded the people of Ceylon to become Buddhists.
+
+## India after the Mauryas
+
+### The Deccan and South India
+
+With the decline of the Mauryan empire, the Satavahanas emerged as an independent power in the Deccan. King Satakarni conquered many regions. The Satavahans had to fight against the shakas who were ruling in Saurashtra. Gautamiputra Satakarni succeeded in regaining the western Deccan which had been lost to the Shakas. In the second century A. D., the Satavahanas succeeded in extending their kingdom to the North and the South but in the third century, the kingdom declined. The Satavahans kingdom acted as a bridge between North and South India. Many towns grew up and trade, inland and foreign, flourished. An efficient administrative system was developed.
+
+In this period, under the patronage of rich merchants, Buddhist stupas and chaityas were decorated. Many monasteries were built near the big cities. Some monasteries were big caves cut into the hills and decorated with sculptures. The religious art of this period was mainly Buddhist. 
+
+Buddhism became very popular. Its spread was helped by the great Buddhist philosophers, Ashvaghosha and Nagarjuna. In place of the old Vedic gods, Vishnu and Shiva were becoming popular and devotion to God become more important than religious ceremonies alone.
+
+In south India, three kingdoms arose - the Cholas in the region of Tanjore, the Pandyas in the region of Madurai and the Cheras in Kerala. They often fought each other. The Cholas became powerful in the first century B.C. They developed into a sea power and occupied Ceylon for some time. The Malabar coast became a great centre of trade with the Roman empire and Indian luxury goods were exported. Excavations at Arikamedu, which was an important port, have brought to light many Roman objects. Trade was carried on with south-east Asia also. Trade made these kingdoms very rich.
+
+The information about the life of this period is provided by the Sangam literature. It is a collection of two thousand poems in Tamil. These poems resemble Vedic hymns though they are not all religious poems. 
+
+Most people lived in villages. Merchants and craftsmen lived in towns and in ports. The king was assisted by an assembly of chiefs - the sabha- where all matters were discussed. People amused themselves with gambling, music, dancing and poetry recitations.
+
+Some people followed the religions which had spread from the north. Most of them, however, worshipped their traditional gods and heroes. A new religion from western Asia came to India in the first century A. D. This was Christianity.
