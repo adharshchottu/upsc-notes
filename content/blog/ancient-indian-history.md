@@ -106,7 +106,7 @@ Between 100 B. C. and 100 A. D., a number of foreigners, namely the Greeks, the 
 
 Gandhara school of art was one of the major schools of art in the history of ancient India. Although an intricate part of Indian history, it is uniquely associated with the Greco-Roman style of art.
 
-The combination of these Greco-Roman and Indian ideas along with the influence of other foreign traditions such as from China and Iran resulted in the formation of a distinct style known as the Gandhara School of art. 
+The combination of these Greco-Roman and Indian ideas along with the influence of other foreign traditions such as from China and Iran resulted in the formation of a distinct style known as the Gandhara School of art.
 
 This style of art was closely associated with **Mahayana** Buddhism and hence the main theme of this art was Lord Buddha and Bodhisattvas. Thus, it can be conjectured that in idea and conception this style was Indian and in execution it was foreign. One example of the Gandhara style of art is the Bamiyan Buddha statues.
 
@@ -127,3 +127,9 @@ The Greco-Roman effect(**Hellenistic** effect) on Gandhara art can be traced thr
 * Elongated ear
 
 Thus, the Gandhara School of Art can be said to be an influence and culmination of both Indian as well as foreign traditions due to its strategic location.
+
+## The age of the Guptas
+
+### The Gupta kings
+
+In the 4th century A. D. a powerful dynasty - the Gupta dynasty - arose in Magadha. There were great achievements in the cultural fields during this period. Hence this period is described as a "Golden Age". The dynasty became important under Chandragupta 1 who married a Lichchhavi princess. Under his son, Samugrdagupta, the kingdom became very powerful and extended as far as the modern regions of western Uttar Pradesh and Delhi. He also campaigned in the east, the Deccan and the south and defeated many kings. However, all the territories he conquered were not added to his empire. Because of this, the Gupta empire was not as large as that of the Mauryas. Chandragupta 2 or Vikramaditya fought against the Shakas in western India. He maintained friendly relations with the kings of the Deccan and the South. He is famous for his patronage of literature and arts. The empire declined in the 5th century under weak rulers. The Hunas, a central Asian people, attacked India and established their kingdom. These people became a part of the Indian population. Gupta's administration differed from that of the Mauryas in many ways. The governors of provinces were more independent. The officers were later paid their salaries in land revenue and not in cash. Under the weak rulers the governors behaved like independent kings and later, after the fall of the Guptas, became independent rulers. In the administration of the districts, the governors were assisted by district councils.
