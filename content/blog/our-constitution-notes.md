@@ -3,7 +3,6 @@ author = ["evan"]
 categories = ["notes", "Constitution", "gs2"]
 date = 2023-01-10T18:30:00Z
 description = "our constitution notes by evan"
-draft = true
 image = ""
 tags = ["notes", "Constitution"]
 title = "Our Constitution Notes"
