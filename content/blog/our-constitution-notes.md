@@ -9,7 +9,7 @@ tags = ["notes", "Constitution"]
 title = "Our Constitution Notes"
 
 +++
-## 1: Introduction to Constitution and Significance
+## Chapter 1: Introduction to Constitution and Significance
 
 #### What is a Constitution?
 
