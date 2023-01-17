@@ -60,3 +60,31 @@ _Whatever the criteria, the Indian economy is presently an underdeveloped econom
 10. **Lack of entrepreneurs**
 
     **_Joseph A. Schumpeter_** argues _"the function of entrepreneurs is to reform or revolutionise the pattern of production by exploiting an invention or, more generally, an untried technological possibility for producing a new commodity or producing an old one in a new way by opening up a new source of supply of raw materials or a new outlet for products, be reorganizing an industry and so on."_
+
+## India - a developing economy
+
+Economic development in India has broadly two facets:
+
+1. National Income Trends
+   * **Rise in Net National Product**
+
+     NNP is the measure of economic output that takes into account the depreciation of capital stock. It is a measure of a country's economic well-being, as it shows the amount of new wealth that is being created each year, after accounting for the loss of value of the existing capital stock.
+   * **Rise in per capita income**
+
+     Per capita income is a measure of a country's economic well-being that shows the average income earned by each person in a country.
+2. Structural Changes
+   * **Significant changes in the sectoral distribution of domestic products**
+
+     more population are moving away from the primary sector to the secondary and tertiary sectors for employment.
+   * **slow changes in employment structure**
+
+     **_T. S. Papola_** notes, _"A sharper decline in the contribution of agriculture in GDP than its share in employment implies a decline in its relative productivity and increase in income differentials between agriculture and the non-agrarian sectors."_
+   * **Growth of basic capital goods industries**
+
+     Basic capital goods industries refer to the industries that produce capital goods, which are goods that are used to produce other goods and services. India witnesses an increase in these industries due to its big efforts.
+   * **Expansion in social overhead capital**
+
+     Social Overhead Capital refers to the infrastructure and public goods that are necessary for a country's economic growth and development, such as roads, bridges, ports, airports, power plants, water supply systems, telecommunications systems, education and health care systems, research and development institutions and other public goods that are necessary for a country's economic and social development.
+   * **Progress in the banking and financial sector**
+
+     Significant progress in the banking and financial sector take place in India post-independence.
