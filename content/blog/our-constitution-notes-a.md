@@ -26,4 +26,20 @@ It was a British law passed to reform and regulate the administration of the Eas
 
 ### The Pitt's India Act of 1784
 
-The act aimed to address the problems that arose after the Regulating Act of 1773. The act established a new system of government for India, with a **Board of Control** appointed by the British government to oversee the company's affairs and to supervise the Governor-General and Council in India. The act also established a new system of financial accountability for the company, with the requirement that the company's revenues be paid into the British Treasury, and the company's expenses are approved by the Board of Control. This act was significant as it marked a major step in the process of transferring control of India from the East India Company to the British government. 
+The act aimed to address the problems that arose after the Regulating Act of 1773. The act established a new system of government for India, with a **Board of Control** appointed by the British government to oversee the company's affairs and to supervise the Governor-General and Council in India. The act also established a new system of financial accountability for the company, with the requirement that the company's revenues be paid into the British Treasury, and the company's expenses are approved by the Board of Control. This act was significant as it marked a major step in the process of transferring control of India from the East India Company to the British government.
+
+### Charter act of  1833
+
+It played a key role in the constitutional history of India by transferring power to the **British Crown**, laying the foundation for the British Raj, and establishing the foundations for a **centralized administration** and **Western-style education system** in India. This ultimately led to the emergence of a Western-educated Indian elite, who would play a significant role in the Indian independence movement. The act also made provision for the appointment of a **Governor-General of India** and the creation of a legislative council, which had the power to make laws for British India, but did not include any Indian representatives. 
+
+### Act of 1858
+
+The Act of 1858, also known as the Government of India Act 1858, is considered a significant event in the constitutional history of India, as it marked the **end of the East India Company's rule** and the beginning of the British Raj, where the British Crown directly controlled and governed India through the **Viceroy of India** and the **Secretary of State for India**.
+
+### Government of India Act 1861
+
+It allowed for greater Indian participation in the administration of British India and marked the beginning of a process of gradual constitutional reform that would continue throughout the British Raj. Unfortunately, the non-official Indian members appointed to the councils were still a minority and did not have any real power to influence the decisions.
+
+### Indian Councils Act 1892
+
+The Act of 1892 was also known as the Morley-Minto Reforms, named after the then-British Secretary of State for India Lord Morley and Viceroy of India Lord Minto. It was the first legislation that introduced **communal representation** through separate electorates for Muslims, which created a separate Muslim electorate and reserved seats for Muslims in the legislative councils. This move further deepened the communal divide between Hindus and Muslims and is considered a major factor in the partition of India in 1947. The act expanded the membership of the Governor-General's executive council and the legislative councils in the presidencies of Bengal, Bombay, and Madras, and created new legislative councils in other provinces.
