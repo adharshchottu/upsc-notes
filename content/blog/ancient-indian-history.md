@@ -145,3 +145,25 @@ The Gupta kings were worshippers of Vishnu. Religious sacrifices were also held.
 Unlike the rock-cut temples at Ajanta and Ellora, new types of temples were built in brick and stone and dedicated to the worship of Vishnu and Shiva. The earliest Gupta temples consisted of just one room where the image was kept. In later centuries they became larger. Many Buddhist monasteries were also built, some of them cut into hillsides. The walls of caves were covered with murals as at Ajanta.
 
 Under Gupta's patronage, some of the finest poetry and drama were written. Kalidasa is believed to have lived at the court of Chandragupta II. Sanskrit was widely used by the educated. Sciences such as astronomy and mathematics also flourished. The Indian system of numerals was the most developed in the world. Knowledge of metals improved. This all-around progress allows us to call the Gupta Age an age of advanced civilization.
+
+## The age of smaller kingdoms
+
+### The North
+
+About a hundred years after the breaking up of the Gupta empire, a new kingdom arose in North India under the powerful king Harsha. He made Kanauj his capital. He conquered almost the whole of northern India but was defeated by the Chalukya ruler, Pulakeshin, when he tried to campaign in the Deccan. Like the Gupta kings, Harsha did not add all the territories conquered by him to his kingdom. He received tribute from them, and soldiers in times of war. He was a Buddhist but gave his patronage to other religions also. He wrote three plays in Sanskrit. Hiuen Tsang, a Chinese traveller, came to India in this period and met Harsha. We learn from him that Buddhism was still popular in eastern India. Nalanda was the leading university in the country. He also wrote about the caste system. The untouchables were treated badly and had to live on the outskirts of the town. The rich lived in beautifully decorated houses and the poor in simple ones. People were honest but hot-tempered. After Harsha's death the kingdom was split into many small statest.
+
+### The Deccan and the South
+
+After the Vakatakas, the Chalukyas emerged as a strong power in the deccan. They made Vatapi their capital. The famous Chalukya ruler, Pulakeshin, had defeated Harsha when the latter attacked Deccan. The Chalukyas had to fight against the Pallavas in the south and the Rashtrakutas in the North. The Chalukyas and the Rashtrakutas were great patrons of the arts. Much of the Ellora sculpture was due to their patronage.
+
+The Pallavas were a strong power in the south and ruled from the region of Kanchipuram. They had to fight with the Pandyas and the Chalukyas. The Pallava king Mahendravarman was a contemporary of Harsha and Pulakeshin. He was a poet and a musician. In this period, a group of Tamil saints popularized a religion of personal devotion to God. Their hymns were written in the language of the common people, Tamil. Many of the saints came from  the lower castes. Under the Pallavas, many temples were built. On the roof of the room where the image was placed a tall tower was built. The temple became a gathering place where villagers met and discussed their problems. It was also the cultural centre of the village.
+
+## India and the World
+
+### Indian contacts with the outside world
+
+By the 7th century A.D., India's relations with south-east Asia had grown considerably. Trade had increased. Some merchants settled down in these countries. Gradually some aspects of Indian culture were accepted by the people of south-east Asia. However, the culture were accepted by the people of south-east Asia. Howerever, the culture of south-east Asian countries was not an imitation of Indian culture. In the villages, the old way of life continued. The aspects of Indian culture which were accepted were combined with their own old culture. Grand temples were built in many of these countries. A new type of literature developed, which combined Indian influences with local traditions. The art and architecture in these countries was influenced by both Hindu and Buddhist religions. Though there were many similarities, the culture of these countries had their special features. These countries also contributed to Indian culture. 
+
+### The arabs in India
+
+Islam arose in Arabia and soon spread to many parts of Asia and Africa. It was propagated by the Prophet Muhammad who saw it as a means of unifying the tribes of Arabia. He also believed that he was revealing the truth of God to man. He objected to people worshipping idols and stones and taught the worship of one supreme God. He gave a set of rules to his followers which emphasized prayer, personal cleanliness, keeping fasts and being generous in charity. He also insisted that everyone was equal in the eyes of God and that there were no distinctions of class and caste. Muhammed died in 632 A.D.
