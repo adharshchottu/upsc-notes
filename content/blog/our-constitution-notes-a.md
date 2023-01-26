@@ -83,3 +83,18 @@ It aimed to further constitutional reform in British India and increase the part
 ### Indian Independence Act of 1947
 
 The Indian Independence Act of 1947 was an Act of the British Parliament that partitioned British India into the two independent Dominions of India and Pakistan. It was passed on July 18, 1947, and came into effect on August 15, 1947. The Act provided for the transfer of power from the British government to the government of India and Pakistan, and also made provisions for the division of British Indian territory, including the division of the British Indian Army, the Indian Civil Service, and other administrative services. The Act also provided for the abolition of the British Paramountcy, which had previously been the authority of the British government over the Indian princely states. It was a significant step in the process of Indian independence from British colonial rule.
+
+## Salient features
+
+1. **Size of the constitution**
+
+   It is the lengthiest-ever written constitution. This is due to it got reproduced a large portion of the _Government of India Act 1935_, constitution makers do not want to leave any doubts or issues in future, and also contains the constitutional provisions for states. It is also one of the most comprehensive constitutions, covering a wide range of topics such as the organization of the government, fundamental rights, directive principles of state policy, and the procedures for amending the Constitution. The size of the Indian Constitution reflects the diverse and complex nature of Indian society, and the need to provide for a wide range of rights and protections for citizens. Additionally, the Indian Constitution has been amended over 100 times since its adoption in 1950, which has added to its size and complexity.
+2. **Written constitution**
+
+   Even though the constitution is written, conventions also play a part insofar as they are in keeping with the provisions of the constitution.
+3. **Rigid-Flexible constitution**
+
+   A combination of both rigid and flexible types as, some articles can be easily amended while some need a special majority(_Article 368_) to amend including ratification by one-half of the state legislatures.
+4. **quasi-federal constitution**
+
+   a federal constitution with a strong unitary or pro-centre bias. federal in structure but unitary in spirit. Normally federal in nature but can become unitary in emergency situations.
