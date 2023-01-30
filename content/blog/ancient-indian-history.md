@@ -21,6 +21,7 @@ In the beginning, the man was a nomad. He lived in caves or on leafy branches of
 3. Monuments -> Buildings belonging to the past, either dug out of the earth or found still standing
 4. Script -> The forms of writing a language
 5. Archaeological evidence -> Things that are dug out of the ground
+6. Prakrit -> language used by ordinary people
 
 ### Beginnings of settled life
 
@@ -56,6 +57,8 @@ The Aryans fought with the people already living in India and defeated them. The
 
 ## Rise of the Kingdom of Magadha
 
+Rajas were prominent people who often performed sacrifices. And Rajas who organised the sacrifices were considered very powerful. And they were started recognised as being rajas of **_janapadas_**. _janapada_ literally means where the jana settled. After some years some janapadas became more important and they were known as **_mahajanpadas_**. mahajapandas had a fortified capital city, maintain armies, collect taxes and more. for instance **Magadha**. And there was a different form of government known as **_gana_** or _sangha_. Instead of one, they had a group of rajas or rulers. for instance in **Vaji**, with its capital at Vaishali.
+
 ### Kingdoms and Republics
 
 By 600 B. C., the Aryans had spread all over the Ganga valley and its neighbourhood. The older tribal organization gave away to republics and kingdoms. The Shakyas and the Lichchhavis in North Bihar formed important republics. Kosala, Magadha, and Vatsa in the Ganga valley and Avanti were powerful kingdoms. They fought one another and at last Magadha emerged as the most powerful kingdom. Bimbisara and his son Ajatashatru made Magadha a big and strong kingdom. With the rise of the kingdom of Magadha, the king became a very important person and was believed to be endowed with god-like powers and virtues. An administrative system for governing the kingdom was also developed.
@@ -64,9 +67,21 @@ By 600 B. C., the Aryans had spread all over the Ganga valley and its neighbourh
 
 For carrying on the government, the king needed money. This he collected from the cultivators, craftsmen and merchants. The king claimed a fixed share of their produce as tax in the form of money or goods. An important development in this period was the growth of towns. These grew up around craft centres, trading centres and the capitals of kingdoms. The growth of crafts and the rise of towns resulted in a great expansion of trade. The difficulties of trade were lessened by the invention of money which made exchange easier. The caste system in this period became more established. The artisans came to be regarded as a caste. Besides the four castes, many lower castes arose and were treated badly. Law-givers laid down laws for separate castes. The _ashrama_ system also was laid down for higher classes in this period.
 
-### Buddhism and Jainism
+## Buddhism and Jainism
 
-The Vedic religion had become a religion of many rites and sacrifices. Many people questioned these practices. Mahavira and the Buddha were two such persons. Mahavira taught Jainism and the Buddha founded Buddhism. These were simple religions and were preached in the language of the common people. Jainism enjoined upon its followers to base their actions on the Three Jewels - Right Faith, Right Knowledge and Right Action. It also forbade the taking of life. The Buddha taught that the world was full of suffering because of the desire for worldly things. He preached the Eightfold path. Buddhism also preached ahimsa and forbade the killing of animals. Buddhism opposed Vedic rituals and sacrifices. It was also opposed to the caste system and ill-treatment of the _Shudras_ and other lowly castes. These religions became popular with the common people. Later they spread to many parts of India and to many parts of the world. Buddhism inspired much of the early art of India. Buddhist monasteries became important centres of education. Mahavira was born in the city of Vaishali in 6 B. C. Siddhartha was born in the Lumbini grove near the city of Kapilavastu. The Buddha was a Shakya prince and Mahavira was a Lichchhavi prince.
+The Vedic religion had become a religion of many rites and sacrifices. Many people questioned these practices. Mahavira and the Buddha were two such persons. Mahavira taught Jainism and the Buddha founded Buddhism. These were simple religions and were preached in the language of the common people. Jainism enjoined upon its followers to base their actions on the Three Jewels - Right Faith, Right Knowledge and Right Action. It also forbade the taking of life. These religions became popular with the common people. Later they spread to many parts of India and to many parts of the world.
+
+### Buddhism
+
+Siddhartha, also known as Gautama belonged to a small gana known as the _Sakya gana_ and was a Kshatriya. He was born in the _Lumbini grove_ near the city of **_Kapilavastu_**.  He left home in search of knowledge. Through prolonged meditation, he attained enlightenment under a peepal tree at **_Bodh Gaya_** in Bihar. He then went to **_Sarnath_**, Varanasi where he taught for the first time. He passed away at **_Kusinara_**. The Buddha taught that the world was full of suffering because of the desire for worldly things. He preached the Eightfold path. Buddhism also preached ahimsa and forbade the killing of animals. Buddhism opposed Vedic rituals and sacrifices. It was also opposed to the caste system and ill-treatment of the _Shudras_ and other lowly castes. Buddhism inspired much of the early art of India. Buddhist monasteries became important centres of education.
+
+### Jainism
+
+Vardhamana Mahavira was born in the city of Vaishali. He was the last and 24th Tirthankara of the Jainas. He was a Kshatriya prince of the Lichchhavis, a group that was part of the Vaji sangha.
+
+### Upanishads
+
+The Upanishads are a collection of ancient Indian philosophical texts that form part of the Vedic scriptures. They are considered to be some of the earliest expressions of Hindu thought and contain important philosophical and spiritual teachings. The Upanishads are primarily concerned with the nature of reality, the self, the ultimate goal of human life (often described as liberation or enlightenment), and the path to attain it. They contain a variety of philosophical views, including Samkhya, Yoga, and Vedanta, and have influenced many schools of Hindu thought, as well as Buddhism and Jainism. The Upanishads are considered to be one of the most important sources for the understanding of Hindu philosophy and spirituality and continue to be studied and revered by scholars and spiritual seekers alike. Upanishads literally means **_"approaching and sitting near"_**. The ideas were presented through simple dialogues. Most thinkers were men, brahmins and rajas. there are a few exceptions. **Gargi**, a woman, was famous for her learning and participated in debates held in royal courts. **Satyakama Jabala**, a poor man who is named after his mother Jabali(who was a slave), had a deep desire to learn about reality and later he became one of the best-known thinkers of the time.
 
 ## The Mauryan Empire
 
@@ -130,6 +145,8 @@ Thus, the Gandhara School of Art can be said to be an influence and culmination 
 
 ## The age of the Guptas
 
+the last of the _ganas_ or _sanghas_ were conquered by the Guptas.
+
 ### The Gupta kings
 
 In the 4th century A. D. a powerful dynasty - the Gupta dynasty - arose in Magadha. There were great achievements in the cultural fields during this period. Hence this period is described as a "Golden Age". The dynasty became important under Chandragupta 1 who married a Lichchhavi princess. Under his son, Samugrdagupta, the kingdom became very powerful and extended as far as the modern regions of western Uttar Pradesh and Delhi. He also campaigned in the east, the Deccan and the south and defeated many kings. However, all the territories he conquered were not added to his empire. Because of this, the Gupta empire was not as large as that of the Mauryas. Chandragupta 2 or Vikramaditya fought against the Shakas in western India. He maintained friendly relations with the kings of the Deccan and the South. He is famous for his patronage of literature and arts. The empire declined in the 5th century under weak rulers. The Hunas, a central Asian people, attacked India and established their kingdom. These people became a part of the Indian population. Gupta's administration differed from that of the Mauryas in many ways. The governors of provinces were more independent. The officers were later paid their salaries in land revenue and not in cash. Under the weak rulers the governors behaved like independent kings and later, after the fall of the Guptas, became independent rulers. In the administration of the districts, the governors were assisted by district councils.
@@ -162,7 +179,7 @@ The Pallavas were a strong power in the south and ruled from the region of Kanch
 
 ### Indian contacts with the outside world
 
-By the 7th century A.D., India's relations with south-east Asia had grown considerably. Trade had increased. Some merchants settled down in these countries. Gradually some aspects of Indian culture were accepted by the people of south-east Asia. However, the culture were accepted by the people of south-east Asia. Howerever, the culture of south-east Asian countries was not an imitation of Indian culture. In the villages, the old way of life continued. The aspects of Indian culture which were accepted were combined with their own old culture. Grand temples were built in many of these countries. A new type of literature developed, which combined Indian influences with local traditions. The art and architecture in these countries was influenced by both Hindu and Buddhist religions. Though there were many similarities, the culture of these countries had their special features. These countries also contributed to Indian culture. 
+By the 7th century A.D., India's relations with south-east Asia had grown considerably. Trade had increased. Some merchants settled down in these countries. Gradually some aspects of Indian culture were accepted by the people of south-east Asia. However, the culture were accepted by the people of south-east Asia. Howerever, the culture of south-east Asian countries was not an imitation of Indian culture. In the villages, the old way of life continued. The aspects of Indian culture which were accepted were combined with their own old culture. Grand temples were built in many of these countries. A new type of literature developed, which combined Indian influences with local traditions. The art and architecture in these countries was influenced by both Hindu and Buddhist religions. Though there were many similarities, the culture of these countries had their special features. These countries also contributed to Indian culture.
 
 ### The arabs in India
 
