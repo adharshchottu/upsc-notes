@@ -86,15 +86,39 @@ The Indian Independence Act of 1947 was an Act of the British Parliament that pa
 
 ## Salient features
 
-1. **Size of the constitution**
+ 1. **Size of the constitution**
 
-   It is the lengthiest-ever written constitution. This is due to it got reproduced a large portion of the _Government of India Act 1935_, constitution makers do not want to leave any doubts or issues in future, and also contains the constitutional provisions for states. It is also one of the most comprehensive constitutions, covering a wide range of topics such as the organization of the government, fundamental rights, directive principles of state policy, and the procedures for amending the Constitution. The size of the Indian Constitution reflects the diverse and complex nature of Indian society, and the need to provide for a wide range of rights and protections for citizens. Additionally, the Indian Constitution has been amended over 100 times since its adoption in 1950, which has added to its size and complexity.
-2. **Written constitution**
+    It is the lengthiest-ever written constitution. This is due to it got reproduced a large portion of the _Government of India Act 1935_, constitution makers do not want to leave any doubts or issues in future, and also contains the constitutional provisions for states. It is also one of the most comprehensive constitutions, covering a wide range of topics such as the organization of the government, fundamental rights, directive principles of state policy, and the procedures for amending the Constitution. The size of the Indian Constitution reflects the diverse and complex nature of Indian society, and the need to provide for a wide range of rights and protections for citizens. Additionally, the Indian Constitution has been amended over 100 times since its adoption in 1950, which has added to its size and complexity.
+ 2. **Written constitution**
 
-   Even though the constitution is written, conventions also play a part insofar as they are in keeping with the provisions of the constitution.
-3. **Rigid-Flexible constitution**
+    Even though the constitution is written, conventions also play a part insofar as they are in keeping with the provisions of the constitution.
+ 3. **Rigid-Flexible constitution**
 
-   A combination of both rigid and flexible types as, some articles can be easily amended while some need a special majority(_Article 368_) to amend including ratification by one-half of the state legislatures.
-4. **quasi-federal constitution**
+    A combination of both rigid and flexible types as, some articles can be easily amended. At the same time, some need a special majority(_Article 368_) to amend including ratification by one-half of the state legislatures.
+ 4. **quasi-federal constitution**
 
-   a federal constitution with a strong unitary or pro-centre bias. federal in structure but unitary in spirit. Normally federal in nature but can become unitary in emergency situations.
+    a federal constitution with a strong unitary or pro-centre bias. federal in structure but unitary in spirit. Normally federal in nature but can become unitary in emergency situations.
+ 5. **Parliamentary system**
+
+    A parliamentary system with an elected president as nominal or constitution head. A parliamentary system will give a more responsible executive on the other hand a presidential system will give a more stable executive.
+ 6. **A mix of parliamentary sovereignty and judicial supremacy**
+
+    The powers and functions of each body are defined and delimited in the constitution. So both parliament and the supreme court are supreme in their spheres.
+ 7. **Adult franchise**
+
+    Universal adult franchise with one man one vote
+ 8. **Fundamental rights**
+
+    Fundamental rights are defined and enforceable. Any violations can be challenged in court as defined in the law. But there are certain restrictions and that too is defined. The constitution presents a balance between the rights of the individual on the one hand and the interest of society and the needs of the security of the state on the other hand.
+ 9. **Directive Principles of State Policy**
+
+    Inspired by the Irish constitution, DPSPs are non-enforceable socio-economic rights of the people, which in fact are expected to guide the governance of the country.
+10. **Citizenship**
+
+    Single citizenship with a federal structure inspired by the British constitution
+11. **Fundamental duties**
+
+    Inspired by the Constitution of Russia fundamental duties were incorporated in Part IV-A of the Constitution by the 42nd Constitutional Amendment Act, 1976 on the recommendations of Swaran Singh Committee.
+12. **Independent judiciary**
+
+    An independent judiciary with the power of judicial review. The word of the supreme court is the final law of the land.
