@@ -3,7 +3,6 @@ author = ["augu"]
 categories = ["GS3", "indian economy"]
 date = 2023-01-29T18:30:00Z
 description = "Indian Economy: Natural resources"
-draft = true
 image = ""
 tags = []
 title = "Indian Economy: Natural Resources"
