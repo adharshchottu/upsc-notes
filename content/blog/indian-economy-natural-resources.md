@@ -30,11 +30,11 @@ The Central Soil Conservation Board (CSCB) is an apex advisory body on issues re
 
 ## Water resources
 
-Water resources include surface water, such as rivers, lakes, and reservoirs, as well as groundwater, which is found below the Earth's surface. The FAO classifies a region or a country as water-stressed when the annual water availability per capita is less than 1,700 cubic meters, and as water-scarce when it falls below 1,000 cubic meters per capita. **_Anju Gaur and Priyane Amerasinghe_** argue that, _at the macro level, India is in a water-stressed state._ 
+Water resources include surface water, such as rivers, lakes, and reservoirs, as well as groundwater, which is found below the Earth's surface. The FAO classifies a region or a country as water-stressed when the annual water availability per capita is less than 1,700 cubic meters, and as water-scarce when it falls below 1,000 cubic meters per capita. **_Anju Gaur and Priyane Amerasinghe_** argue that, _at the macro level, India is in a water-stressed state._
 
-**Surface water:** The entire surface water can be utilised because of topography, water flow characteristics, soil conditions and climate. In 1974 the surface water utilisation was about 25 million hectares meters and it is expected to increase to 70 million hectares meters in 2025. 
+**Surface water:** The entire surface water can be utilised because of topography, water flow characteristics, soil conditions and climate. In 1974 the surface water utilisation was about 25 million hectares meters and it is expected to increase to 70 million hectares meters in 2025.
 
-**Groundwater:** It accounts for about 40% of the country's total water supply and is used extensively in agriculture, industry, and domestic sectors. However, due to over-extraction and mismanagement, many regions in India are facing a groundwater crisis. 
+**Groundwater:** It accounts for about 40% of the country's total water supply and is used extensively in agriculture, industry, and domestic sectors. However, due to over-extraction and mismanagement, many regions in India are facing a groundwater crisis.
 
 The **Central Ground Water Board (CGWB**) is responsible for monitoring, assessing, and managing the groundwater resources in the country. Various measures have been taken by the government, including regulation of groundwater extraction, rainwater harvesting, and recharge of aquifers to address the groundwater crisis.
 
@@ -50,3 +50,32 @@ The key objectives of the NWP 2012 include:
 4. Participatory approach: The policy emphasizes the importance of involving all stakeholders, including the public, in the management of water resources.
 5. Pricing and regulation: The policy advocates the need for appropriate pricing and regulation of water use to ensure optimal allocation and efficient use of water resources.
 6. Inter-state and international cooperation: The policy recognizes the need for cooperation and coordination among states and with neighbouring countries for the optimal management of water resources.
+
+## Forest resources
+
+According to the India State of Forest Report 2019, the total forest and tree cover in India is 80.73 million hectares, which is 24.56% of the geographical area of the country. per capita forest area in India is only 0.08 ha as against the world average of 0.6 ha. 
+
+Forestry provides a range of benefits, including:
+
+1. Environmental benefits: Forests play a critical role in maintaining ecological balance by absorbing carbon dioxide, reducing soil erosion, preventing desertification, and regulating water cycles.
+2. Economic benefits: Forestry provides livelihood opportunities for people living in and around forested areas through timber production, non-timber forest produce (NTFP) collection, and ecotourism.
+3. Social benefits: Forests are a source of cultural and spiritual significance, providing people with a sense of identity and community.
+4. Biodiversity conservation: Forests are home to a large number of plant and animal species, and conserving forests is crucial for preserving biodiversity.
+5. Climate change mitigation: Forests absorb and store carbon, helping to mitigate the impacts of climate change.
+6. Disaster risk reduction: Forests provide natural protection against disasters like floods, landslides, and droughts.
+
+Overall, forestry plays a critical role in sustainable development and is an important part of efforts to promote environmental, economic, and social sustainability.
+
+The **National Forest Policy** of India was first introduced in **_1952_** and revised in 1988. The policy aims to ensure environmental stability and maintain ecological balance by preserving the forests and their natural resources. It outlines the government's approach to forest conservation, management, and development, and provides guidelines for sustainable forest utilization. Some of the key objectives of the policy are to:
+
+1. Maintain environmental stability and ecological balance, including soil conservation and watershed management.
+2. Meet the basic needs of fuel, fodder, and small timber of the rural and tribal communities.
+3. Increase forest and tree cover to a minimum of one-third of the geographical area of the country.
+4. Encourage efficient utilization of forest produce and minimize waste.
+5. Promote the participation of people in managing forests and protecting their resources.
+6. Promote afforestation and reforestation programs on degraded and denuded lands.
+7. Establish national parks, wildlife reserves, and protected areas for the conservation of wildlife and its habitat.
+8. Encourage research and training in forestry and related fields.
+9. Promote the development of industries based on forest produce and forest-based eco-tourism.
+
+The National Forest Policy of 1952 recognized the role of forests in meeting the needs of the people and promoting economic development. The policy provided a framework for the sustainable use and conservation of forest resources and recognized the importance of involving local communities in forest management. The policy has been revised to reflect changing priorities and circumstances, including the growing concerns over climate change and the need for sustainable development.
