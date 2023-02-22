@@ -53,7 +53,7 @@ The key objectives of the NWP 2012 include:
 
 ## Forest resources
 
-According to the India State of Forest Report 2019, the total forest and tree cover in India is 80.73 million hectares, which is 24.56% of the geographical area of the country. per capita forest area in India is only 0.08 ha as against the world average of 0.6 ha. 
+According to the India State of Forest Report 2019, the total forest and tree cover in India is 80.73 million hectares, which is 24.56% of the geographical area of the country. per capita forest area in India is only 0.08 ha as against the world average of 0.6 ha.
 
 Forestry provides a range of benefits, including:
 
@@ -79,3 +79,36 @@ The **National Forest Policy** of India was first introduced in **_1952_** and r
 9. Promote the development of industries based on forest produce and forest-based eco-tourism.
 
 The National Forest Policy of 1952 recognized the role of forests in meeting the needs of the people and promoting economic development. The policy provided a framework for the sustainable use and conservation of forest resources and recognized the importance of involving local communities in forest management. The policy has been revised to reflect changing priorities and circumstances, including the growing concerns over climate change and the need for sustainable development.
+
+The Government of India has taken several measures for forest conservation and management, some of which are:
+
+1. National Afforestation Programme (NAP): The NAP was launched in 2000 to increase forest and tree cover in the country. It aims to support afforestation and reforestation activities and to enhance the ecological services of forests.
+2. Joint Forest Management (JFM): The JFM programme involves community participation in the conservation and management of forests. Under this programme, local communities are involved in the protection, regeneration and sustainable use of forests.
+3. Forest Conservation Act (1980): The Forest Conservation Act was enacted to regulate the diversion of forestland for non-forestry purposes. The Act requires the prior approval of the central government for the diversion of forestland for non-forestry purposes.
+4. Wildlife Protection Act (1972): The Wildlife Protection Act provides for the protection of wildlife, and the establishment of protected areas such as national parks, wildlife sanctuaries and conservation reserves.
+5. Green India Mission (GIM): The GIM was launched in 2010 as a part of the National Action Plan on Climate Change. It aims to increase forest cover, and improve the quality of forests and other ecosystems.
+6. Compensatory Afforestation Fund Act (2016): The Compensatory Afforestation Fund Act was enacted to provide for the utilisation of funds collected for compensatory afforestation and to strengthen the institutional mechanism for forest conservation and management.
+
+## Mineral Resources
+
+Mineral resources in India are classified into three:
+
+1. **First category:** Minerals in which the known reserves are considerable. E.g: Iron ore, manganese, mica, thorium, etc
+2. **Second category:** Adequate known reserves are available, but cannot afford to export any. E.g: Bauxite, limestone, dolomite
+3. **Third category:** know reserves are inadequate. E.g: petroleum, gold, copper, zinc, coal
+
+Geophysical exploration of new mineral deposits is not easy in the Indian subcontinent due to crystalline rocks, thick layers of alluvial soils, and large tracts of land buried under desert or ancient lava flow.
+
+The **Ministry of Mines** is a department of the Indian government responsible for the exploration and development of the country's mineral resources, formulating policies and programs for the development and utilization of mineral resources, and for the regulation and development of the mining industry and promoting the sustainable development of mineral resources, and to ensure that the benefits of mining are shared with the local communities.
+
+The **Geological Survey of India (GSI)** is a government agency responsible for geological research, exploration, and assessment of mineral resources in India. It operates under the _Ministry of Mines_ and is headquartered in Kolkata, West Bengal. The GSI was established in 1851 and is one of the oldest geological survey organizations in the world. Its main functions include conducting geological mapping and mineral resource assessments, providing geoscientific information and advisory services to various government agencies, and promoting scientific research and development in the field of geology and earth sciences. The GSI also collaborates with various national and international organizations to carry out joint research and exploration activities.
+
+The **Indian Bureau of Mines (IBM)** is a subordinate office under the Ministry of Mines, which regulates the mining sector in India. It provides technical and consultancy services in the field of mining and also plays a key role in implementing the provisions of various laws related to mining activities, such as the Mines and Minerals (Development and Regulation) Act, of 1957. IBM also undertakes the exploration and mapping of mineral resources and provides data and information on mineral potential and mineral resource estimation. It also monitors the environmental impact of mining activities and ensures compliance with regulations related to sustainable mining practices.
+
+The **Mines and Mineral Development and Regulation (MMDR) Act, 1957** is legislation in India that regulates the mining sector. The act provides for the regulation of mines and the development of minerals under the control of the Union. It aims to increase the production of minerals, ensure their conservation, and prevent illegal mining. The act provides for the grant of mineral concessions and lays down the guidelines for their utilization and monitoring. The act has been amended several times to keep it in line with the changing economic, social and technological environment.
+
+The **Offshore Areas Mineral (Development and Regulation) Act 2002** is an Indian law that was enacted to regulate the exploration and mining of minerals in the territorial waters, continental shelf, exclusive economic zone, and other maritime zones of India. The law applies to all minerals, including oil and gas, and provides for the auction of mining rights to private companies through a competitive bidding process. The act seeks to promote sustainable development, protect the environment, and ensure the conservation of minerals.
+
+The **National Mineral Policy (NMP)** was first announced in 1993 and revised in 2008. The policy aims to encourage the development of mineral resources in a sustainable and eco-friendly manner while ensuring the welfare of local communities. The 2008 policy recognizes the need for the conservation of minerals, while also promoting their sustainable development to meet the needs of industry and society. The policy seeks to attract private investment in exploration and mining activities, while also addressing issues such as environmental protection, mineral conservation, and equitable distribution of benefits to local communities. The policy also seeks to provide a stable and predictable regulatory environment for the mining industry in India.
+
+The 2015 amendment to the **MMDR** Act brought about several changes, including the introduction of a transparent and competitive auction process for the allocation of mineral concessions, the establishment of a National Mineral Exploration Trust to encourage mineral exploration, and the inclusion of provisions for the rehabilitation and resettlement of affected communities. The amendment also increased the royalty rates for minerals and mandated the creation of district mineral foundations to ensure the welfare of local communities.
