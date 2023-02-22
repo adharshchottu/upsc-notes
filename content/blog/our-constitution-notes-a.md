@@ -118,7 +118,24 @@ The Indian Independence Act of 1947 was an Act of the British Parliament that pa
     Single citizenship with a federal structure inspired by the British constitution
 11. **Fundamental duties**
 
-    Inspired by the Constitution of Russia fundamental duties were incorporated in Part IV-A of the Constitution by the 42nd Constitutional Amendment Act, 1976 on the recommendations of Swaran Singh Committee.
+    Inspired by the Constitution of Russia fundamental duties were incorporated in Part IV-A of the Constitution by the 42nd Constitutional Amendment Act, 1976 on the recommendations of the Swaran Singh Committee.
 12. **Independent judiciary**
 
     An independent judiciary with the power of judicial review. The word of the supreme court is the final law of the land.
+
+## Making of the Constitution
+
+The concept of a constituent assembly had always been linked with the growth of the national movement in India. In opposition to the 1919 Act, in 1922 it was Mahatma Gandhi who made the first definite reference to a constituent assembly even though without those words or under that particular name.
+
+ 1. In 1922, a joint meeting of members of the two houses of the central legislature was held in Simla which decided to call a convention for the framing of the constitution. (1919 act created the bicameral legislature at the central level)
+ 2. Under the presidentship of Sir Tej Bahadur Sapru, in April 1924, a "National Convention" was held and they drafted a "Commonwealth of India Bill".
+ 3. With slight amendments of a committee by all party conference held in January 1925, the bill was sent to an influential labour party member and was presented in the House of Commons. (The fate of the Bill was sealed due to the defeat of the Labour party at that time)
+ 4. In November 1927, the Simon Commission formed faced backlash due to there were no Indians in the review commission.
+ 5. The Motilal Nehru Report in 1928 was an important milestone in the Indian freedom struggle and helped to shape the future of the country. It set the stage for the drafting of the Indian Constitution and the establishment of a democratic and secular republic. It calls for dominion status for India, a federal government with limited powers, provincial governments with wide-ranging powers, fundamental rights, an independent judiciary, abolition of untouchability and the establishment of a secular state.
+ 6. A formal call for a constituent assembly was put forward by a Congress working committee in 1934. And also it reiterates a constituent assembly elected based on adult suffrage.
+ 7. After the failure of the Cripps mission no updates till world war 2 ended in 1945.
+ 8. As per the Cabinet Mission in 1945, a representative body consisting of members elected from the provincial assemblies and nominated by the princely states is formed as the constituent assembly.
+ 9. The constituent assembly started working on 9 December 1946 and the assembly became complete after the partition in 1947. The assembly was believed to be sovereign and representative.
+10. The Objective Resolution was moved by Nehru on 13 December 1946 and finally adopted on 22 January 1947, which acts as the philosophy and guiding principle for the creation of the constitution.
+
+The basic idea was to retain the fundamentals of our polity but also evolve with time. The constitution is not a complete break free from the colonial past, but a progressive one. For instance, institutions and conventions took along, because those were born on Indian soil and had the foundation, so they decided to grow from there, instead of a new one.
