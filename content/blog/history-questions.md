@@ -16,6 +16,13 @@ tags:
 description: This is meta description
 
 ---
+### **Long story short**
+
+* [**Modern History**](#modern-history)
+* [**Freedom Struggle**](#freedom-struggle)
+* [**Post-Independence**](#post-independence)
+* [**World History**](#world-history)
+
 ## **Modern History**
 
 1. Why did the armies of the British East India company – mostly comprising of Indian soldiers – win consistently against the more numerous and better equipped armies of then Indian rulers? Give reasons. **\[2022\]**
