@@ -18,6 +18,14 @@ tags:
 description: Geography Questions
 
 ---
+### **Long story short**
+
+* [**Physical Geography**](#physical-geography)
+* [**Climate**](#climate)
+* [**Resources**](#resources)
+* [**Urbanization**](#urbanization)
+* [**Industrial Location**](#industrial-location)
+
 ## **Physical Geography**
 
  1. Describe the characteristics and type of primary rocks. **\[2022\]**
@@ -33,7 +41,7 @@ description: Geography Questions
 11. Major hot deserts in the northern hemisphere are located between 20-30 degree north and on the western side of the continents. Why? **\[2013\]**
 12. Bring out the causes for more frequent landslides in the Himalayas than in Western Ghats. **\[2013\]**
 
-### **Climate**
+## **Climate**
 
  1. What are the forces that influence ocean currents? Describe their role in the fishing industry of the world. **\[2022\]**
  2. Troposphere is a very significant atmosphere layer that determines weather processes. How? **\[2022\]**
@@ -53,7 +61,7 @@ description: Geography Questions
 16. Bring out the causes for the formation of heat islands in the urban habitat of the world. **\[2013\]**
 17. What do you understand by the phenomenon of temperature inversion in meteorology? How does it affect the weather and the habitants of the place? **\[2013\]**
 
-### **Resources**
+## **Resources**
 
  1. Discuss the natural resource potential of ‘Deccan trap’. **\[2022\]**
  2. Examine the potential of wind energy in India and explain the reasons for their limited spatial spread. **\[2022\]**
@@ -80,7 +88,7 @@ description: Geography Questions
 23. With growing scarcity of fossil fuels, the atomic energy is gaining more and more significance in India. Discuss the availability of raw material required for the generation of atomic energy in India and in the world. **\[2013\]**
 24. It is said the India has substantial reserves of shale oil and gas, which can feed the needs of country for quarter century. However, tapping of the resources doesn’t appear to be high on the agenda. Discuss critically the availability and issues involved. **\[2013\]**
 
-### **Urbanization**
+## **Urbanization**
 
 1. Elucidate the relationship between globalization and new technology in a world of scarce resources with special reference to India. **\[2022\]**
 2. What are the environmental implications of the reclamation of the water bodies into urban land use? Explain with examples. **\[2021\]**
@@ -91,7 +99,7 @@ description: Geography Questions
 7. Smart cities in India cannot sustain without smart villages. Discuss this statement in the backdrop of rural urban integration.  **\[2015\]**
 8. Discussion the various social problems which originated out of the speedy process of urbanization in India. **\[2013\]**
 
-### **Industrial Location**
+## **Industrial Location**
 
  1. Mention the significance of straits and isthmus in international trade. **\[2022\]**
  2. Describing the distribution of rubber-producing countries indicate the major environmental issues faced by them. **\[2022\]**
