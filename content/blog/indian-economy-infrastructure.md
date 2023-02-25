@@ -8,14 +8,14 @@ tags = []
 title = "Indian Economy: Infrastructure"
 
 +++
-**_The development of infrastructure is a sine qua non of economic development._** 
+**_The development of infrastructure is a sine qua non of economic development._**
 
 ## Power or Electricity
 
 India has a rapidly expanding power infrastructure that includes a mix of conventional and renewable energy sources. There are a number of problems in the electricity sector:
 
 1. Insufficient generation capacity: There is a gap between the demand and supply of electricity in the country, leading to power shortages and load shedding.
-2. Poor financial health of state electricity boards (SEBs): Many SEBs are facing losses due to factors like low tariffs, high transmission and distribution losses, and non-payment of dues by customers.
+2. The poor financial health of state electricity boards (SEBs): Many SEBs are facing losses due to factors like low tariffs, high transmission and distribution losses, and non-payment of dues by customers.
 3. High transmission and distribution losses: Due to the poor condition of the transmission and distribution network, a significant amount of electricity is lost during transmission and distribution.
 4. Inadequate rural electrification: Many villages in India still do not have access to electricity, and the electrification rate in rural areas is lower than in urban areas.
 5. Dependence on fossil fuels: India is heavily dependent on fossil fuels like coal and oil for power generation, which has negative environmental impacts and is vulnerable to price fluctuations.
@@ -26,9 +26,9 @@ The **Electricity Act, of 2013** is an Indian legislation that governs the gener
 
 **Sources of power**
 
-1. Hydel power: The share of hydel power is reduced in India. Its development depends on a lot of factors. 
+1. Hydel power: The share of hydel power is reduced in India. Its development depends on a lot of factors.
 2. Thermal power: 75% of total power comes from thermal power. mainly coal but it is polluting and exhaustible.
 3. Nuclear power: very little share
 4. RES(renewable energy resources): solar power, wind power, biomass, etc
 
-**Ujwal DISCOM Assurance Yojana (UDAY)** is a scheme launched by the Government of India in November 2015 to improve the financial and operational performance of power distribution companies (DISCOMs) in India. The scheme aims to reduce the debt burden of the DISCOMs and improve their efficiency through measures such as reducing transmission and distribution losses, improving billing and collection efficiency, and promoting energy efficiency. Under UDAY, state governments take over 75% of the debt of the DISCOMs, and the remaining debt is issued as state-backed DISCOM bonds. The scheme also provides financial incentives to DISCOMs for meeting operational and financial targets. 
+**Ujwal DISCOM Assurance Yojana (UDAY)** is a scheme launched by the Government of India in November 2015 to improve the financial and operational performance of power distribution companies (DISCOMs) in India. The scheme aims to reduce the debt burden of the DISCOMs and improve their efficiency through measures such as reducing transmission and distribution losses, improving billing and collection efficiency, and promoting energy efficiency. Under UDAY, state governments take over 75% of the debt of the DISCOMs, and the remaining debt is issued as state-backed DISCOM bonds. The scheme also provides financial incentives to DISCOMs for meeting operational and financial targets.
