@@ -10,6 +10,13 @@ title = "Economic development: a theoretical background"
 +++
 **Ronald A Shearer** stated, _"The literature of social sciences is a testimony to the errors: unnecessary confusions and prolonged debates which can result from an ambiguity on the level of basic conceptualization"_
 
+#### **Long story short**
+
+* [**Economic Growth**](#the-concept-of-economic-growth)
+* [**Economic Development**](#the-concept-of-economic-development)
+* [**Economic Underdevelopment**](#economic-underdevelopment)
+* [**Characteristics of underdeveloped**](#common-characteristics-of-underdeveloped-or-developing-countries)
+
 ## The concept of economic growth
 
 It may be defined as a rate of expansion that can move an underdeveloped country from a near-subsistence mode of living to substantially higher levels. In the case of developed economies, it is the continuation of existing growth rates.
