@@ -8,6 +8,20 @@ tags = ["indian history", "ancient history"]
 title = "Ancient Indian History"
 
 +++
+
+#### **Long story short**
+
+* [**Early Man**](#early-man)
+* [**Man takes to City Life**](#man-takes-to-city-life)
+* [**Life in the Vedic Age**](#life-in-the-vedic-age)
+* [**Rise of the Kingdom of Magadha**](#rise-of-the-kingdom-of-magadha)
+* [**Buddhism and Jainism**](#buddhism-and-jainism)
+* [**The Mauryan Empire**](#the-mauryan-empire)
+* [**India after the Mauryas**](#india-after-the-mauryas)
+* [**The age of the Guptas**](#the-age-of-the-guptas)
+* [**The age of smaller kingdoms**](#the-age-of-smaller-kingdoms)
+* [**India and the World**](#india-and-the-world)
+
 ## Early Man
 
 ### Man as a nomad
