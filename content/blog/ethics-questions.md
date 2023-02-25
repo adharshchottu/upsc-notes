@@ -16,7 +16,12 @@ The topic ‘Ethics’ has the following sub-topics:
 * Human Values – Lessons from the Lives and Teachings of Great Leaders, Reformers and Administrators
 * Role of Family Society and Educational Institutions in Inculcating Values
 
-### **Theory**
+#### **Long story short**
+
+* [**Theory**](#theory)
+* [**Case Study**](#case-study)
+
+## **Theory**
 
  1. Discuss the role of ethics and values in enhancing the following three major components of Comprehensive National Power (CNP) viz. human capital, soft power (culture and policies) and social harmony. **\[2020\]**
  2. Distinguish between laws and rules. Discuss the role of ethics in formulating them. **\[2020\]**
@@ -54,7 +59,7 @@ The topic ‘Ethics’ has the following sub-topics:
 26. “The good of an individual is contained in the good of all.” What do you understand by this statement? How can this principle be implemented in public life? **\[2013\]**
 27. It is often said that ‘politics’ and ‘ethics’ do not go together. What is your opinion in this regard? Justify your answer with illustrations. **\[2013\]**
 
-### **Case Study**
+## **Case Study**
 
  1. Rajesh Kumar is a senior public servant, with a reputation of honesty and forthrightness, currently posted in the Finance Ministry as Head of the Budget Division. His department is presently busy organising the budgetary support to the states, four of which are due to go to the polls within the financial year.  
     This year’s annual budget had allotted 78300 crores for the National Housing Scheme (NHS), a centrally sponsored social housing scheme for the weaker sections of society. 775 crores have been drawn for NHS till June.The Ministry of Commerce had long been pursuing a case for setting up a Special Economic Zone (SEZ) in a southern state to boost exports. After two years of detailed discussions between the centre and state, the Union Cabinet approved the project in August. The process was initiated to acquire the necessary land.Eighteen months ago, a leading Public Sector Unit (PSU) had projected the need for setting up a large natural gas processing plant in a northern state for the regional gas grid. The required land is already in possession of the PSU. The gas grid is an essential component of the national energy security strategy. After three rounds of global bidding, the project was allotted to an MNC, M/s XYZ Hydrocarbons. The first tranche of payment to the MNC is scheduled to be made in December.Finance Ministry was asked for a timely allocation of an additional 6000 crores for these two developmental projects. It was decided to recommend re-appropriation of this entire amount from the NHS allocation. The file was forwarded to the Budget Department for their comments and further processing. On studying the case file, Rajesh Kumar realized that this re-appropriation may cause an inordinate delay in the execution of NHS, a project much publicized in the rallies of senior politicians. Correspondingly, the non-availability of finances would cause a financial loss in the SEZ and national embarrassment due to delayed payment in an international project.
