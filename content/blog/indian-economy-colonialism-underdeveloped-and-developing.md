@@ -10,6 +10,12 @@ title = "Indian Economy: Colonialism, Underdeveloped and developing"
 +++
 **Colonialism** refers to a system of political and social relations between two countries, of which one is the ruler and the other is its colony. The ruling country has political control over the colony and determines the subjugated country's economic policies.
 
+#### **Long story short**
+
+* [**British rule and exploitation of India**](#british-rule-and-exploitation-of-india)
+* [**India:An underdeveloped economy**](#india---an-underdeveloped-economy)
+* [**India:A developing economy**](#india---a-developing-economy)
+
 ## British rule and exploitation of India
 
 1. Merchant capital and the exploitation
@@ -61,7 +67,7 @@ _Whatever the criteria, the Indian economy is presently an underdeveloped econom
 
     **_Joseph A. Schumpeter_** argues _"the function of entrepreneurs is to reform or revolutionise the pattern of production by exploiting an invention or, more generally, an untried technological possibility for producing a new commodity or producing an old one in a new way by opening up a new source of supply of raw materials or a new outlet for products, be reorganizing an industry and so on."_
 
-## India - a developing economy
+## India - A developing economy
 
 Economic development in India has broadly two facets:
 
