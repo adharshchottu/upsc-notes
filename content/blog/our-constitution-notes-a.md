@@ -8,6 +8,13 @@ tags = ["notes", "Constitution"]
 title = "Our Constitution Notes(A)"
 
 +++
+
+#### **Long story short**
+
+* [**Historical underpinnings**](#historical-underpinnings)
+* [**Salient features**](#salient-features)
+* [**Making of the Constitution**](#making-of-the-constitution)
+
 ## Historical underpinnings
 
 The historical underpinnings of the Indian Constitution can be traced back to several sources, including the country's ancient legal and political traditions, as well as more recent constitutional developments in British India and other countries.
