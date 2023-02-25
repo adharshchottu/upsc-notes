@@ -12,6 +12,13 @@ title = "Indian Economy: Natural Resources"
 
 **W. A. Lewis** states _"the level and pattern of development of a country is often limited by its natural resources"_
 
+#### **Long story short**
+
+* [**Land resources**](#land-resources)
+* [**Water resources**](#water-resources)
+* [**Forest resources**](#forest-resources)
+* [**Mineral Resources**](#mineral-resources)
+
 ## Land resources
 
 The **National Forest Policy Resolution** of the Government of India in 1952 recommended that considering the need for ecological balance, the country should have one-third of land as forest cover. But we are not able to reach the target even now.
