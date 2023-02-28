@@ -8,7 +8,6 @@ tags = ["notes", "Constitution"]
 title = "Our Constitution Notes(A)"
 
 +++
-
 #### **Long story short**
 
 * [**Historical underpinnings**](#historical-underpinnings)
@@ -146,3 +145,69 @@ The concept of a constituent assembly had always been linked with the growth of 
 10. The Objective Resolution was moved by Nehru on 13 December 1946 and finally adopted on 22 January 1947, which acts as the philosophy and guiding principle for the creation of the constitution.
 
 The basic idea was to retain the fundamentals of our polity but also evolve with time. The constitution is not a complete break free from the colonial past, but a progressive one. For instance, institutions and conventions took along, because those were born on Indian soil and had the foundation, so they decided to grow from there, instead of a new one.
+
+## The Preamble
+
+The preamble is the fundamental values and philosophy of a constitution.
+
+It begins with the phrase **_"We, the people of India_**" and emphasizes the principles of justice, liberty, equality, and fraternity. The core idea is to give the people a "sovereign democratic republic". It underscores the importance of democracy, secularism, and socialism, and affirms the sovereignty, unity, and integrity of the nation. Some words are still vaguely defined, those words need a definite description to work as expected to build a just society.
+
+### Sovereignty
+
+American sociologist **Charles Cooley** defines a sovereign state as one _"where there resides within itself a supreme and absolute power acknowledging no superior"_. In political science terms, sovereignty means absolute and supreme power is not controlled by any internal or external forces. Unlike the USA and Australia, In India, there is a separation of powers, but no division in sovereignty. All the organs and functionaries of the Union and the States draw their power only from the people of India. The power ultimately rests with the people, who can elect their representatives and hold them accountable for their actions. In the _Keshavananda Bharti Case_, Justice Mathew said India was "sovereign" because it could make or unmake any decision with respect to itself without any interference from the outside.
+
+### Socialism
+
+It signifies the commitment of the Indian state to build a socialist society through the establishment of an egalitarian social, economic and political order. It implies the creation of a society where there is no exploitation, and the wealth of the nation is distributed equally among all its citizens. However, it is important to note that India follows a mixed economy, which means that while there are private enterprises, the state also plays an active role in the economic development of the country. Added to the preamble via the 44th amendment.
+
+### Secularism
+
+Added to the preamble via the 42nd Amendment in 1976.
+
+**Donald Eugene Smith** defines secularism as: _"The secular state is a state which gives individual and corporate freedom of religion, is not constitutionally connected to a particular religion, nor does it seek either to promote or interfere with religion"._
+
+Justice **M. H Beg** said in _Ziyauddin Burhammudin Bukhari_ Vs. _Brijmohan Ramdass Mehra and Bros._(1975): _"The secular state, rising above all differences of religion, attempts to secure the good of all its citizens irrespective of their religious beliefs and practices"_
+
+In the **_Kesavananda Bharti_** case and _Minerva Mills case_, secularism was held to be a part of the basic structure.
+
+In _S.R. Bommai_ Vs. _Union of India_(1994) SC justified the imposition of President's rule in the BJP-ruled states in the aftermath of the Babri Masjid demolition, on the ground of threat to 'secularism'.
+
+In the Ayodhya case(1995), SC said: _"It is clear from the constitutional scheme that it guarantees equality in the matter of religion to all individuals and groups irrespective of their faith emphasizing that there is no religion of the state itself. The concept of secularism is one facet of the right to equality woven as the central golden thread in the fabric depicting the pattern of the scheme in our constitution."_
+
+Unlike the west, in India, secularism was never born out of the conflict between the church and the state. It was perhaps rooted in India's history and culture, a very likely response to her pluralism or the desire of the founding fathers to be just and fair to all communities irrespective of their numbers. India's secularism is based on the principle of **_"Sarva Dharma Sambhav"_** which means equal respect and tolerance towards all religions. In contrast, in the West, secularism is primarily about keeping religion separate from the state and ensuring that the government does not favour any particular religion.
+
+In the **_Shah Bano case of 1985,_** SC uphold the idea of secularism, but due to political pressure, the government passed the **_Muslim Women (Protection of Rights on Divorce) Act, 1986_**, which nullified the SC judgement.
+
+The basic idea is to have a polity that doesn't discriminate based on religion, caste, etc and strives to have a social order free from communal conflicts, but based on Justice, social, economic and political.
+
+### Democracy
+
+Democracy is a form of government in which power is held by the people, either directly or through elected representatives. It is based on the principles of popular sovereignty, political equality, and majority rule, while also protecting the rights of minority groups and promoting the rule of law. In a democratic system, citizens have the right to participate in the decision-making process of the government and hold their leaders accountable through regular elections and other forms of democratic participation. Men and women of 18 years and above have the right to vote as per article 326 and the executive is responsible to the popular house of the legislature as per Articles 75(3) and 164(2).
+
+### Republican character
+
+American sociologist **Charles Cooley** defines a republican form of government as _"a government by representatives chosen by the people"_. **Justice Hidayatullah** says: _"A Republic is a state in which the supreme power rests in the final analysis with the people and not with a single individual like a king or the like. India is still a part of the commonwealth but as "a sovereign state"._ The aim is to attain social and economic democracy via political democracy.
+
+### Justice
+
+Justice refers to the concept of fairness, equality, and righteousness in society. The constitution strives for social, economical and political justice. Social justice implies that all citizens are treated equally irrespective of their status in society. Article 15 prohibits discrimination in the matter of access to public places. Article 38 says "State to secure a social order for the promotion of the welfare of the people." Economic justice would require that the rich and the poor are treated alike and that efforts are made to bridge the gap between them. Political justice means equal share for all citizens in the right to participate in the political process without any discrimination.
+
+### Liberty
+
+In western traditions, liberty is a negative concept. It refers to an economic and political doctrine that advocates for minimal government intervention in economic affairs and a free market system based on supply and demand. But in the Indian context, liberty means the right to "liberty of thought, expression, belief, faith and worship". The Constitution recognizes the importance of liberty as a fundamental right and ensures its protection through various provisions and safeguards.
+
+### Equality
+
+The term "equality" in the Preamble of the Constitution of India refers to the principle of social, economic, and political equality for all citizens without any discrimination. It implies that all individuals should be treated equally before the law and have equal access to opportunities and resources, regardless of their religion, race, caste, gender, or place of birth. The Constitution of India provides various provisions and safeguards to promote and ensure equality, such as affirmative action for disadvantaged groups, abolition of untouchability, and prohibition of discrimination on various grounds.
+
+### Fraternity
+
+In the Preamble of the Indian Constitution, fraternity means a sense of brotherhood and common humanity transcending all kinds of divisions among people, including those based on religion, race, language, and region. It emphasizes the importance of unity and integration among the diverse people of the country. The idea of fraternity is closely linked with the principles of democracy, socialism, and secularism, which form the basis of the Indian Constitution. The Constitution seeks to promote fraternity by ensuring that every citizen enjoys equal rights and opportunities, and by protecting the rights of minorities and weaker sections of society. The concept of fraternity is an essential part of India's democratic and secular identity and helps to promote social harmony and national unity.
+
+### The dignity of the Individual
+
+The ultimate goal is to preserve and promote the dignity of the Individual. Improve the quality of life for the individual through fundamental rights and issuing DPSP for social development.
+
+### Unity and Integrity of the nation
+
+Unity and integrity of the nation are needed to protect an individual's dignity. Only through universal brotherhood, the nation can be kept under unity. So it is equally important to have unity and integrity of the nation on one side and fraternity on the other.
