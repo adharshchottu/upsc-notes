@@ -1,7 +1,7 @@
 ---
 title: Art & Culture Questions
-date: 2022-09-24T09:40:24+00:00
-image: images/2020-three-quarters-3.png
+date: 2022-09-24T09:40:24.000+00:00
+image: ''
 author:
 - augu
 categories:
@@ -17,7 +17,7 @@ tags:
 - art
 
 ---
- 1. How will you explain that medieval Indian temple sculptures represent the social life of those days? **\[2022\]**
+1. How will you explain that medieval Indian temple sculptures represent the social life of those days? **\[2022\]**
  2. Discuss the main contributions of Gupta period and Chola period to Indian Heritage and Culture. **\[2022\]**
  3. Discuss the significance of the lion and Bull figures in Indian Mythology art and architecture. **\[2022\]**
  4. Evaluate the nature of the Bhakti Movement and its contribution to Indian culture. **\[2021\]**
