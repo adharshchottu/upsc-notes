@@ -211,3 +211,37 @@ The ultimate goal is to preserve and promote the dignity of the Individual. Impr
 ### Unity and Integrity of the nation
 
 Unity and integrity of the nation are needed to protect an individual's dignity. Only through universal brotherhood, the nation can be kept under unity. So it is equally important to have unity and integrity of the nation on one side and fraternity on the other.
+
+## Union and its territories
+
+**Indian union is an indestructible union of destructible states.** The first schedule of the constitution contains details about the name, territory of states and union territories. The name "_Bharat_" represents the rich diversity of Indian culture and traditions and is a symbol of the country's unity in diversity.
+
+**Article 1**: name and territory of states and union territories
+
+**Article 2**: parliament can admit or create new states. for instance, Sikkim was an independent kingdom until 1975 and it merged with the union of India through the 35th constitution amendment.
+
+**Article 3**: states can be altered by the parliament. even though states have a say in it, it is not binding on the president and parliament.
+
+**Article 4**: alteration of states can be done via simple majority through ordinary legislation. The _Berubari Union_ case was a landmark that dealt with the issue of the cession of territory. The case arose in the context of a boundary dispute between India and Pakistan over the Berubari Union, a small strip of land in present-day West Bengal. The Supreme Court of India held that the cession of territory required the amendment of the Indian Constitution and that the Parliament had no power to cede Indian territory to a foreign state without amending the Constitution. And it was done through the _9th constitution amendment_. The case had significant implications for India's federal structure and the balance of power between the Centre and the States.
+
+## Citizenship
+
+Citizenship is a two-way relationship between a state and an individual. The individual has some obligations like paying taxes, following laws and showing allegiance to the state. In return, the state offers rights, privileges and protection to the individual. There existed no concept of Indian citizenship before 26 November 1949. This relationship is regulated by national law and recognized by International law. The **Indian citizenship act of 1955** laid down the law for the acquisition and termination of citizenship. 
+
+**Article 5**: Citizenship through domicile. A permanent residence and the intention to reside there indefinitely are two important ingredients constituting a 'domicile'. Citizenship is denoted by domicile and not vice-versa.
+
+**Article 6**: Citizenship for migrants from Pakistan
+
+**Article 7**: Citizenship for migrants who went to Pakistan and came back
+
+**Article 8**: Citizenship for NRI
+
+**Article 9**: A person has voluntarily acquired the citizenship of a foreign state he shall forfeit the right of Indian citizenship. 
+
+**Article 10**: Right of the citizenship cannot be taken away unless there is parliament legislation for that. The Citizenship act made it clear that the corporations were not citizens.
+
+**Article 11**: Parliament's power to regulate the right of citizenship through law
+
+The core idea behind Citizenship was to create an integrated Indian nation and a united fraternity. 
+
+The **Citizenship Amendment Act (CAA) 2020** is an amendment to the Citizenship Act of 1955. It provides a path to Indian citizenship for illegal immigrants from three neighbouring countries - Afghanistan, Bangladesh, and Pakistan - who belong to six specific religious minorities: Hindus, Sikhs, Jains, Buddhists, Parsis, and Christians. The act has been controversial, with critics arguing that it is discriminatory as it excludes Muslims and violates the secular principles of the Indian Constitution. Protests have erupted across India against the act, leading to police action and violence in some instances. The Indian government has defended the act, stating that it is intended to protect persecuted minorities and not harm any Indian citizens. The act has been challenged in court and the legal proceedings are ongoing.
