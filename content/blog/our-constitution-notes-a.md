@@ -226,7 +226,7 @@ Unity and integrity of the nation are needed to protect an individual's dignity.
 
 ## Citizenship
 
-Citizenship is a two-way relationship between a state and an individual. The individual has some obligations like paying taxes, following laws and showing allegiance to the state. In return, the state offers rights, privileges and protection to the individual. There existed no concept of Indian citizenship before 26 November 1949. This relationship is regulated by national law and recognized by International law. The **Indian citizenship act of 1955** laid down the law for the acquisition and termination of citizenship. 
+Citizenship is a two-way relationship between a state and an individual. The individual has some obligations like paying taxes, following laws and showing allegiance to the state. In return, the state offers rights, privileges and protection to the individual. There existed no concept of Indian citizenship before 26 November 1949. This relationship is regulated by national law and recognized by International law. The **Indian citizenship act of 1955** laid down the law for the acquisition and termination of citizenship.
 
 **Article 5**: Citizenship through domicile. A permanent residence and the intention to reside there indefinitely are two important ingredients constituting a 'domicile'. Citizenship is denoted by domicile and not vice-versa.
 
@@ -236,12 +236,48 @@ Citizenship is a two-way relationship between a state and an individual. The ind
 
 **Article 8**: Citizenship for NRI
 
-**Article 9**: A person has voluntarily acquired the citizenship of a foreign state he shall forfeit the right of Indian citizenship. 
+**Article 9**: A person has voluntarily acquired the citizenship of a foreign state he shall forfeit the right of Indian citizenship.
 
 **Article 10**: Right of the citizenship cannot be taken away unless there is parliament legislation for that. The Citizenship act made it clear that the corporations were not citizens.
 
 **Article 11**: Parliament's power to regulate the right of citizenship through law
 
-The core idea behind Citizenship was to create an integrated Indian nation and a united fraternity. 
+The core idea behind Citizenship was to create an integrated Indian nation and a united fraternity.
 
 The **Citizenship Amendment Act (CAA) 2020** is an amendment to the Citizenship Act of 1955. It provides a path to Indian citizenship for illegal immigrants from three neighbouring countries - Afghanistan, Bangladesh, and Pakistan - who belong to six specific religious minorities: Hindus, Sikhs, Jains, Buddhists, Parsis, and Christians. The act has been controversial, with critics arguing that it is discriminatory as it excludes Muslims and violates the secular principles of the Indian Constitution. Protests have erupted across India against the act, leading to police action and violence in some instances. The Indian government has defended the act, stating that it is intended to protect persecuted minorities and not harm any Indian citizens. The act has been challenged in court and the legal proceedings are ongoing.
+
+## Fundamental rights
+
+**Justice Gajendragadkar** described FR as the **_"very foundation and cornerstone of the democratic way of life ushered in this country by the constitution"_**
+
+Fundamental Rights were constituted with the aim of the unity of the nation and the interests of the public. It also incorporates and implements the basic principles enunciated in the Universal Declaration of Human Rights.
+
+According to **Justice Bhagawati**: **_"These fundamental rights represent the basic values cherished by the people of this country since the Vedic times and they are calculated to protect the dignity of the individual and create conditions in which every human being can develop his personality to the fullest extent. They weave a pattern of guarantee on the basic structure of human rights and impose negative obligations on the state not to encroach on individual liberty in its various dimensions."_**
+
+FR is not absolute but has reasonable restrictions. As **Patanjali Sastry**, CJI said in the _State of West Bengal vs Subodh Gopal Bose of 1954_, **_"The whole object of Part 3 of the constitution is to provide protection for the freedoms and rights mentioned therein against arbitrary invasion by the State."_**
+
+**Article 12**: definition of a state. the definition is exhaustive and is subjected to the decision of the court under each case.
+
+**Article 13(2)**: The state shall not make any law which takes away or abridges the rights conferred by this part and any law made in contravention of this clause shall to the extent of contravention be void.
+
+### Equality before the law or Equal protection of the laws
+
+**Article 14** enunciates the fundamental right of every person not to be denied "equality before the law" and "equal protection of the laws" within the territory of India. While the two concepts are similar, equality before the law emphasizes the importance of equal access to the legal system, while equal protection of laws emphasizes the importance of equal treatment under the law. Not only applicable to citizens but also to all persons. This article embodies the UDHR principle of "All are equal before the law and are entitled without discrimination to equal protection of the law". Basically, _rule of law_ and _equal justice_.
+
+It is observed by **CJI Patanjali Sastri**, that the second expression is a corollary of the first and it is difficult to imagine a situation in which the violation of the first will not be the violation of the second.
+
+The core idea is that the law and its implementation should be non-discriminatory for all persons in similar circumstances.
+
+SC said those who are not equal should not be treated equally. But only reasonable and rational classification is permissible.
+
+In _E. P. Royappa vs State of Tamil Nadu,_ **Justice Chandrachud** and **Justice Krishna Iyer** observed: _"Equality is a dynamic concept with many aspects and dimensions and it cannot be 'cribbed, canned and confined' within traditional and doctrine limits"._
+
+The arbitrary or reasonable classification is based on intelligible differentia and rational relationship between the differentia and the object sought. The scope of the application of this article is widened and determined by the court. Intelligible differentia is a legal term that refers to a characteristic or feature that distinguishes a class of persons or things from others.
+
+### Non-discrimination of religion, caste, sex, etc
+
+**Article 15** enjoins the state not to discriminate based on religion, caste, sex, place of birth or any of them. This right is exclusive to citizens only. 93rd constitutional amendment added clause (5) which empowers parliament to make special provisions for socially and educationally backward classes concerning admission to educational institutions. But the term "socially and educationally backward class" is not defined. SC held that _"caste and poverty may be both relevant for determining the backwardness. But neither caste alone nor poverty alone could be the determining test."_
+
+In _State of UP vs Pradeep Tando of 1975_ SC held that while reservations for candidates coming from rural areas are unconstitutional, for those coming from the Hill and Uttarakhand areas are valid.
+
+In the _Ashok Thakur vs Union of India_, SC put its stamp of approval on 27% reservations for OBCs in educational institutions subject to exclusion of creamy layer and a review of the quota every five years.
