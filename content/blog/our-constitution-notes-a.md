@@ -281,3 +281,21 @@ The arbitrary or reasonable classification is based on intelligible differentia 
 In _State of UP vs Pradeep Tando of 1975_ SC held that while reservations for candidates coming from rural areas are unconstitutional, for those coming from the Hill and Uttarakhand areas are valid.
 
 In the _Ashok Thakur vs Union of India_, SC put its stamp of approval on 27% reservations for OBCs in educational institutions subject to exclusion of creamy layer and a review of the quota every five years.
+
+### Equality of opportunity in public employment
+
+The basic principle in **Article 16** is that of equality of opportunity and non-discrimination in public employment. Clauses (1) and (2) support this and clauses (3), (4), (4A), (4B) and (5) provide the exceptions. The clauses are treated differently in different cases. Article 16(4) empowers the state to make provisions for the reservation of appointments or posts in favour of any **_"socially and educationally backward classes"_** who are under-represented in the services. Also, SC has clarified that reservations under Article 16(4) are not a fundamental right, but a discretionary power of the State. This clause is considered an extension of the general rule to achieve the objective of equality, in some cases. But SC has also emphasized that the reservations should not be at the cost of efficiency in administration and should not violate the fundamental rights of other citizens(Article 335).
+
+**Mandal case**: Officially known as _Indra Sawhney vs Union of India_, 1992, SC upheld the validity of 27% of reservation for OBC-NCL as per the Mandal commission report. SC also reiterates the total reservation quota should not exceed 50%, except in some extraordinary cases and the application of **Article 335**. Also, the reservation is for the initial employment alone but not for promotions.
+
+Reservation to technical posts and super speciality courses in medical colleges are considered case-to-case and is not permissible to lower the qualification just for the sake of reservation. for instance, in _Kartar Singh vs State of MP(1999)_ SC disallowed lowering of qualifications for admission to super speciality medical courses in favour of reserved category candidates.
+
+### Abolition of untouchability
+
+**Article 17** abolishes "untouchability" and forbids its practice in any form.
+
+The **Protection of Civil Rights Act, of 1976** is an important law in India that aims to protect the civil rights and liberties of citizens. It was enacted to abolish the practice of untouchability and to prevent discrimination based on caste, race, religion, or place of birth. The Act provides for penalties and imprisonment for those found guilty of practising untouchability and establishes special courts to try cases related to the offence. The Act has been instrumental in creating awareness and sensitizing people to the issue of discrimination and the need for equal rights for all citizens.
+
+### Abolition of titles
+
+**Article 18** provides for the abolition of titles. The article states that no citizen of India shall accept any title from a foreign state, and no person holding any office of profit or trust under the state shall accept any title from any authority without the consent of the President of India. The abolition of titles was an important step towards establishing equality and eliminating social distinctions based on caste, religion, and wealth.
