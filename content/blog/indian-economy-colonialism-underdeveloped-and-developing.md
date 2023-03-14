@@ -1,13 +1,16 @@
-+++
-author = ["augu"]
-categories = ["GS3", "indian economy"]
-date = 2022-12-09T18:30:00Z
-description = "Indian Economy: Colonialism, Underdeveloped and developing"
-image = ""
-tags = []
-title = "Indian Economy: Colonialism, Underdeveloped and developing"
+---
+author: 
+- augu
+categories: 
+- GS3
+- indian economy
+date: 2022-12-09T18:30:00Z
+description: "Indian Economy: Colonialism, Underdeveloped and developing"
+tags: 
+- indian economy
+title: "Indian Economy: Colonialism, Underdeveloped and developing"
 
-+++
+---
 **Colonialism** refers to a system of political and social relations between two countries, of which one is the ruler and the other is its colony. The ruling country has political control over the colony and determines the subjugated country's economic policies.
 
 #### **Long story short**

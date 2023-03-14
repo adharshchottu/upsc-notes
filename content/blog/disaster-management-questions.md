@@ -1,13 +1,18 @@
-+++
-author = ["augu"]
-categories = ["GS3", "Questions", "Disaster Management"]
-date = 2022-10-05T18:30:00Z
-description = "Disaster Management Questions"
-image = ""
-tags = ["Questions", "Disaster Management"]
-title = "Disaster Management Questions"
+---
+author: 
+- augu
+categories: 
+- GS3
+- Questions
+- Disaster Management
+date: 2022-10-05T18:30:00Z
+description: Disaster Management Questions
+tags: 
+- Questions
+- Disaster Management
+title: Disaster Management Questions
 
-+++
+---
  1. Discuss about the vulnerability of India to earthquake related hazards. Give examples including the salient features of major disasters caused by earthquakes in different parts of India during the last three decades. (Answer in 150 words) **\[2021\]**
  2. Describe the various causes and the effects of landslides. Mention the important components of the National Landslide Risk Management Strategy. (Answer in 250 words) **\[2021\]**
  3. Discuss the recent measures initiated in disaster management by the Government of India departing from the earlier reactive approach. **\[2020\]**

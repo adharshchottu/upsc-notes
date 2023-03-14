@@ -1,13 +1,17 @@
-+++
-author = ["augu"]
-categories = ["GS2", "Questions", "Governance"]
-date = 2022-10-05T18:30:00Z
-description = "Governance Questions"
-image = ""
-tags = ["Governance"]
-title = "Governance Questions"
+---
+author: 
+- augu
+categories: 
+- GS2
+- Questions
+- Governance
+date: 2022-10-05T18:30:00Z
+description: "Governance Questions"
+tags: 
+- Governance
+title: "Governance Questions"
 
-+++
+---
  1. To what extent, in your view, the Parliament is able to ensure accountability of the executive in India? **\[2021\]**
  2. “Pressure groups play a vital role in influencing public policy in making in India.” Explain how the business associations contribute to public policies. **\[2021\]**
  3. The jurisdiction of the Central Bureau of Investigation (CBI) regarding lodging an FIR and conducting a probe within a particular state is being questioned by various States. However, the power of the States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India. **\[2021\]**

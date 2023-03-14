@@ -1,13 +1,18 @@
-+++
-author = ["augu"]
-categories = ["notes", "Constitution", "gs2"]
-date = 2023-01-10T18:30:00Z
-description = "our constitution notes by augu"
-image = ""
-tags = ["notes", "Constitution"]
-title = "Our Constitution Notes(A)"
+---
+author: 
+- augu
+categories: 
+- notes
+- Constitution
+- gs2
+date: 2023-01-10T18:30:00Z
+description: "our constitution notes by augu"
+tags: 
+- notes
+- Constitution
+title: "Our Constitution Notes(A)"
 
-+++
+---
 #### **Long story short**
 
 * [**Historical underpinnings**](#historical-underpinnings)

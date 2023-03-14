@@ -1,13 +1,17 @@
-+++
-author = ["augu"]
-categories = ["GS2", "Questions", "Constitution"]
-date = 2022-10-05T18:30:00Z
-description = "Constitution Questions"
-image = ""
-tags = ["Constitution"]
-title = "Constitution Questions"
+---
+author: 
+- augu
+categories: 
+- GS2
+- Questions
+- Constitution
+date: 2022-10-05T18:30:00Z
+description: Constitution Questions
+tags: 
+- Constitution
+title: Constitution Questions
 
-+++
+---
  1. ‘Constitutional Morality’ is rooted in the Constitution itself and is founded on its essential facets. Explain the doctrine of ‘Constitutional Morality’ with the help of relevant judicial decisions. **\[2021\]**
  2. Analyse the distinguishing features of the notion of the Right to Equality in the Constitutions of the USA and India. **\[2021\]**
  3. Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations. **\[2021\]**

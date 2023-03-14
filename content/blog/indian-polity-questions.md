@@ -1,13 +1,17 @@
-+++
-author = ["augu"]
-categories = ["GS2", "Questions", "Indian Polity"]
-date = 2022-10-05T18:30:00Z
-description = "Indian Polity Questions"
-image = ""
-tags = ["Indian Polity"]
-title = "Indian Polity Questions"
+---
+author: 
+- augu
+categories: 
+- GS2
+- Questions
+- Indian Polity
+date: 2022-10-05T18:30:00Z
+description: "Indian Polity Questions"
+tags: 
+- Indian Polity
+title: "Indian Polity Questions"
 
-+++
+---
  1. How have the recommendations of the 14th France Commission of India enabled the States to improve their fiscal position? **\[2021\]**
  2. “Besides being a moral imperative of a Welfare State, primary health structure is a necessary precondition for sustainable development.” **\[2021\]**
  3. “‘Earn while you learn’ scheme needs to be strengthened to make vocational education and skill training meaningful” **\[2021\]**

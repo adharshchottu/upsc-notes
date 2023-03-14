@@ -1,13 +1,18 @@
-+++
-author = ["augu"]
-categories = ["GS3", "questions", "Science and Technology"]
-date = 2022-09-25T18:30:00Z
-description = "Science and Technology Questions"
-image = ""
-tags = ["Technology", "Science"]
-title = "Science and Technology Questions"
+---
+author: 
+- augu
+categories: 
+- GS3
+- questions
+- Science and Technology
+date: 2022-09-25T18:30:00Z
+description: "Science and Technology Questions"
+tags: 
+- Technology
+- Science
+title: "Science and Technology Questions"
 
-+++
+---
  1. How is the S-400 air defence system technically superior to any other system presently available in the world? (Answer in 150 words) **\[2021\]**
  2. What are the research and developmental achievements in applied biotechnology? How will these achievements help to uplift the poorer sections of society? (Answer in 250 words) **\[2021\]**
  3. The Nobel Prize in Physics in 2014 was jointly awarded to Akasaki, Amano, and Nakamura for the invention of Blue LEDsin 1990s. How has this invention impacted the everyday life of human beings? (Answer in 250 words) **\[2021\]**

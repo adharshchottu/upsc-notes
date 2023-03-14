@@ -1,13 +1,17 @@
-+++
-author = ["augu"]
-categories = ["gs2", "Questions", "Social Justice"]
-date = 2022-10-05T18:30:00Z
-description = "Social Justice Questions"
-image = ""
-tags = ["Social Justice"]
-title = "Social Justice Questions"
+---
+author: 
+- augu
+categories: 
+- gs2
+- Questions
+- Social Justice
+date: 2022-10-05T18:30:00Z
+description: "Social Justice Questions"
+tags: 
+- Social Justice
+title: "Social Justice Questions"
 
-+++
+---
  1. Discuss the desirability of greater representation to women in the higher judiciary to ensure diversity, equity and inclusiveness. **\[2021\]**
  2. Can the vicious cycle of gender inequality. poverty and malnutrition to be broken through microfinancing of women SHGs? Explain with examples. **\[2021\]**
  3. “Though women in post-Independent India have excelled in various fields, the social attitude towards women and the feminist movement has been patriarchal.” Apart from women education and women empowerment schemes, what interventions can help change this milieu? **\[2021\]**

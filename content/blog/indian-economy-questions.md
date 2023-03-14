@@ -1,13 +1,18 @@
-+++
-author = ["augu"]
-categories = ["economics", "questions", "GS3"]
-date = 2022-09-26T18:30:00Z
-description = "Indian Economy Questions"
-image = ""
-tags = ["Indian Economy"]
-title = "Indian Economy Questions"
+---
+author: 
+- augu
+categories: 
+- economics
+- questions
+- GS3
+date: 2022-09-26T18:30:00Z
+description: "Indian Economy Questions"
+tags: 
+- Indian Economy
+- questions
+title: "Indian Economy Questions"
 
-+++
+---
  1. How did land reforms in some parts of the country help to improve the socio-economic conditions of marginal and small farmers? **\[2021\]**
  2. Distinguish between Capital Budget and Revenue Budget. Explain the components of both these Budgets. **\[2021\]**
  3. Discuss how emerging technologies and globalisation contribute to money laundering. Elaborate measures to tackle the problem of money laundering both at national and international levels. **\[2021\]**

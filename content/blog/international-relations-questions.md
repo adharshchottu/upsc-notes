@@ -1,13 +1,17 @@
-+++
-author = ["augu"]
-categories = ["gs2", "Questions", "International Relations"]
-date = 2022-10-05T18:30:00Z
-description = "International Relations Questions"
-image = ""
-tags = ["International Relations"]
-title = "International Relations Questions"
+---
+author: 
+- augu
+categories: 
+- gs2
+- Questions
+- International Relations
+date: 2022-10-05T18:30:00Z
+description: "International Relations Questions"
+tags: 
+- International Relations
+title: "International Relations Questions"
 
-+++
+---
  1. “If the last few decades were of Asia’s growth story, the next few are expected to be of Africa’s.” In the light of this statement, examine India’s influence in Africa in recent years. **\[2021\]**
  2. “The USA is facing an existential threat in the form of a China, that is much more challenging than the erstwhile Soviet Union.” Explain. **\[2021\]**
  3. Critically examine the aims and objectives of SCO. What importance does it hold for India? **\[2021\]**

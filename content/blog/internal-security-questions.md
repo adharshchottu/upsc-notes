@@ -1,13 +1,18 @@
-+++
-author = ["augu"]
-categories = ["GS3", "Questions", "Internal Security"]
-date = 2022-10-05T18:30:00Z
-description = "Internal Security Questions"
-image = ""
-tags = ["Questions", "Internal Security"]
-title = "Internal Security Questions"
+---
+author: 
+- augu
+categories: 
+- GS3
+- Questions
+- Internal Security
+date: 2022-10-05T18:30:00Z
+description: "Internal Security Questions"
+tags: 
+- Questions
+- Internal Security
+title: "Internal Security Questions"
 
-+++
+---
  1. Keeping in view India’s internal security, analyse the impact of cross-border cyber attacks. Also discuss defensive measures against these sophisticated attacks. (Answer in 150 words) **\[2021\]**
  2. Analyse the multidimensional challenges posed by external state and non-state actors, to the internal security in India. Also, discuss measures required to be taken to combat these threats. (Answer in 250 words) **\[2021\]**
  3. Analyse the complexity and intensity of terrorism, its causes, linkages and obnoxious nexus. Also suggest measures required to be taken to eradicate the menace of terrorism. (Answer in 250 words) **\[2021\]**

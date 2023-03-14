@@ -1,13 +1,19 @@
-+++
-author = ["augu"]
-categories = ["Questions", "Environment", "GS3"]
-date = 2022-10-05T18:30:00Z
-description = "Environment Questions"
-image = ""
-tags = ["Questions", "Environment"]
-title = "Environment Questions"
+---
+author: 
+- augu
+categories: 
+- Questions
+- Environment
+- GS3
+date: 2022-10-05T18:30:00Z
+description: "Environment Questions"
+image: ""
+tags: 
+- Questions
+- Environment
+title: "Environment Questions"
 
-+++
+---
  1. Explain the purpose of Green Grid Initiative launched at the World Leaders Summit of COP26 UN Climate Change Conference in Glasglow in November 2021. When was the idea first floated in the International Solar Alliance (ISA)? (Answer in 150 words) **\[2021\]**
  2. Describe the key points of the revived Global Air Quality Guidelines (AQGs) recently released by the World Health Organisation (WHO). How are these different from its last update in 2005? What changes in India’s National Clean Air Programme are required to achieve these revised standards? **\[2021\]**
  3. Describe the major outcomes of the 26th session of the Conference of the Parties (COP) to the United Nations Framework Convention on Climate Change (UNFCCC). What are the commitments made by India in this conference? (Answer in 250 words) **\[2021\]**

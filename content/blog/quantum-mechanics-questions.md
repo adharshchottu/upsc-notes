@@ -1,13 +1,18 @@
-+++
-author = ["augu"]
-categories = ["questions", "physics"]
-date = 2023-02-23T18:30:00Z
-description = "quantum mechanics questions"
-image = ""
-tags = ["questions", "physics"]
-title = "Quantum Mechanics Questions"
+---
+author:
+- augu
+categories: 
+- questions
+- physics
+date: 2023-02-23T18:30:00Z
+description: quantum mechanics questions
+tags: 
+- questions
+- physics
+title: Quantum Mechanics Questions
 
-+++
+---
+
  1. show that Planck's law reduces to Wien's law in short wavelength limit and Rayleigh-Jeans law in long wavelength limit
  2. Find the no. of photons emitted per second by a 40W source of monochromatic light of wavelength 6000Å
  3. The work function of a photosensitive surface is 3.2eV. will photoemission occur if a photon of energy 3.8ev is incident on the surface? If yes, find in Joules the maximum kinetic energy of the photoelectron

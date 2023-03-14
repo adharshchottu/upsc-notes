@@ -1,13 +1,17 @@
-+++
-author = ["augu"]
-categories = ["GS3", "Questions", "Agriculture"]
-date = 2022-09-26T18:30:00Z
-description = "Agriculture Questions"
-image = ""
-tags = ["Agriculture"]
-title = "Agriculture Questions"
+---
+author:
+- augu
+categories: 
+- GS3
+- Questions
+- Agriculture
+date: 2022-09-26T18:30:00Z
+description: Agriculture Questions
+tags: 
+- Agriculture
+title: Agriculture Questions
 
-+++
+---
  1. How did land reforms in some parts of the country help to improve the socio-economic conditions of marginal and small farmers? **\[2021\]**
  2. How and to what extent would micro-irrigation help in solving India’s water crisis? (Answer in 150 words) **\[2021\]**
  3. What are the salient features of National Food Security Act, 2013? How has the Food Security Bill helped in eliminating hunger and malnutrition in India? (Answer 250 words) **\[2021\]**

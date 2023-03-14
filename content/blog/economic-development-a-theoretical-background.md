@@ -1,13 +1,17 @@
-+++
-author = ["augu"]
-categories = ["gs3", "indian economy"]
-date = 2022-10-09T18:30:00Z
-description = "Economic development: a theoretical background"
-image = ""
-tags = ["economic development", "economic growth"]
-title = "Economic development: a theoretical background"
+---
+author: 
+- augu
+categories: 
+- gs3
+- indian economy
+date: 2022-10-09T18:30:00Z
+description: "Economic development: a theoretical background"
+tags: 
+- economic development
+- economic growth
+title: "Economic development: a theoretical background"
 
-+++
+---
 **Ronald A Shearer** stated, _"The literature of social sciences is a testimony to the errors: unnecessary confusions and prolonged debates which can result from an ambiguity on the level of basic conceptualization"_
 
 #### **Long story short**

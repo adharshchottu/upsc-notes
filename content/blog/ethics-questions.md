@@ -1,13 +1,17 @@
-+++
-author = ["augu"]
-categories = ["gs4", "Questions", "Ethics"]
-date = 2022-10-04T18:30:00Z
-description = "Ethics Questions"
-image = ""
-tags = ["Ethics"]
-title = "Ethics Questions"
+---
+author: 
+- augu
+categories: 
+- gs4
+- Questions
+- Ethics
+date: 2022-10-04T18:30:00Z
+description: "Ethics Questions"
+tags: 
+- Ethics
+title: "Ethics Questions"
 
-+++
+---
 The topic ‘Ethics’ has the following sub-topics:
 
 * Essence, Determinants and Consequences of Ethics in – Human Actions

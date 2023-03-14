@@ -10,7 +10,7 @@ categories:
 - history
 tags:
 - World History
-- 'Post-Independence '
+- 'Post-Independence'
 - Freedom Struggle
 - Modern History
 description: This is meta description

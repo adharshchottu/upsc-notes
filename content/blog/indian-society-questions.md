@@ -1,13 +1,17 @@
-+++
-author = ["augu"]
-categories = ["GS1", "questions", "indian society"]
-date = 2022-09-18T18:30:00Z
-description = "Indian Society Questions"
-image = ""
-tags = ["Indian Society"]
-title = "Indian Society Questions"
+---
+author: 
+- augu
+categories: 
+- GS1
+- questions
+- indian society
+date: 2022-09-18T18:30:00Z
+description: "Indian Society Questions"
+tags: 
+- Indian Society
+title: "Indian Society Questions"
 
-+++
+---
  1. Explore and evaluate the impact of ‘Work From Home’ on family relationships. **\[2022\]**
  2. How is the growth of Tier 2 cities related to the rise of a new middle class with an emphasis on the culture of consumption? **\[2022\]**
  3. Given the diversities among tribal communities in India in which specific context should they be considered as a single category? **\[2022\]**

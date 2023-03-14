@@ -1,13 +1,16 @@
-+++
-author = ["augu"]
-categories = ["GS3", "indian economy"]
-date = 2023-01-29T18:30:00Z
-description = "Indian Economy: Infrastructure"
-image = ""
-tags = []
-title = "Indian Economy: Infrastructure"
+---
+author: 
+- augu
+categories: 
+- GS3
+- indian economy
+date: 2023-01-29T18:30:00Z
+description: "Indian Economy: Infrastructure"
+tags: 
+- infrastruture
+title: "Indian Economy: Infrastructure"
 
-+++
+---
 **_The development of infrastructure is a sine qua non of economic development._**
 
 ## Power or Electricity
