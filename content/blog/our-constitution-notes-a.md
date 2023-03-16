@@ -1,23 +1,27 @@
 ---
-author: 
-- augu
-categories: 
-- notes
-- Constitution
-- gs2
-date: 2023-01-10T18:30:00Z
-description: "our constitution notes by augu"
-tags: 
-- notes
-- Constitution
-title: "Our Constitution Notes(A)"
-
+author:
+  - augu
+categories:
+  - notes
+  - Constitution
+  - gs2
+date: '2023-01-10T18:30:00.000Z'
+description: our constitution notes by augu
+tags:
+  - notes
+  - Constitution
+title: Our Constitution Notes(A)
 ---
+
 #### **Long story short**
 
-* [**Historical underpinnings**](#historical-underpinnings)
-* [**Salient features**](#salient-features)
-* [**Making of the Constitution**](#making-of-the-constitution)
+* **[Historical underpinnings](#historical-underpinnings "")**
+* **[Salient features](#salient-features "")**
+* **[Making of the Constitution](#making-of-the-constitution "")**
+* **[The Preamble](#the-preamble "")**
+* **[Union and its territories](#union-and-its-territories "")**
+* **[Citizenship](#citizenship "")**
+* **[Fundamental rights](#fundamental-rights "")**
 
 ## Historical underpinnings
 
@@ -33,7 +37,7 @@ Furthermore, Indian Constitution also incorporates many provisions from the Indi
 
 ### Regulating act of 1773
 
-It was a British law passed to reform and regulate the administration of the East India Company. The act was passed in response to a series of crises in India, including the Battle of Plassey in 1757, in which the East India Company's army defeated the forces of the Nawab of Bengal, and the Bengal Famine of 1770, which resulted in the deaths of millions of people. The act established a new system of government for India, with a **Governor-General** and Council appointed by the British government to govern the company's territories. The act also established a **Supreme Court** in Calcutta, which had jurisdiction over all British subjects in India, and it required the company to submit annual accounts to the British government. The act was significant as it marked the beginning of British government control over India, and it laid the foundation for the eventual establishment of the British Raj.
+It was a British law passed to reform and regulate the administration of the East India Company. The act was passed in response to a series of crises in India, including the Battle of Plassey in 1757, in which the East India Company's army defeated the forces of the Nawab of Bengal, and the Bengal Famine of 1770, which resulted in the deaths of millions of people. The act established a new system of government for India, with a **Governor-General** and Council appointed by the British government to govern the company's territories. The act also established a **Supreme Court** in Calcutta, which had jurisdiction over all British subjects in India, and it required the company to submit annual accounts to the British government. The act was significant as it marked the beginning of British government control over India and laid the foundation for the eventual establishment of the British Raj.
 
 ### The Pitt's India Act of 1784
 
@@ -86,7 +90,7 @@ It aimed to further constitutional reform in British India and increase the part
   It was a group of British politicians sent to India in 1946 to n**egotiate a political settlement** between the Indian National Congress and the Muslim League and to finalize plans for the transfer of power from British colonial rule to Indian independence. The mission was headed by Lord Pethick-Lawrence, Secretary of State for India, and included Sir Stafford Cripps, a prominent Labour Party politician, and A. V. Alexander, First Lord of the Admiralty. The mission proposed a federal structure for independent India, but the proposals were **rejected** by both Congress and the Muslim League, leading to the eventual partition of India.
 * **Interim government**
 
-  The Interim Government of India was formed in 1946 as a result of negotiations between the British government and the Indian National Congress and Muslim League as part of the Cabinet Mission Plan. It was established as a transitional government to **oversee the transfer of power** from British rule to Indian independence. The government was headed by Jawaharlal Nehru as Prime Minister and included other key leaders. The Interim Government served for a period of about one year until the formation of the independent government of India on August 15, 1947.
+  The Interim Government of India was formed in 1946 as a result of negotiations between the British government and the Indian National Congress and Muslim League as part of the Cabinet Mission Plan. It was established as a transitional government to **oversee the transfer of power** from British rule to Indian independence. The government was headed by Jawaharlal Nehru as Prime Minister and included other key leaders. The Interim Government served for about one year until the formation of the independent government of India on August 15, 1947.
 * **Mountbatten plan**
 
   The Mountbatten Plan, also known as the June 3rd Plan, was a proposal for the partition of British India presented by Lord **Louis Mountbatten**, the last British Viceroy of India, to the British government in 1947. The plan proposed the division of British India into **two separate independent countries**: India and Pakistan. The plan was accepted by the British government, and India and Pakistan gained independence on August 15, 1947. The partition led to large-scale communal violence and forced migration, resulting in the deaths of hundreds of thousands of people.
@@ -97,33 +101,33 @@ The Indian Independence Act of 1947 was an Act of the British Parliament that pa
 
 ## Salient features
 
- 1. **Size of the constitution**
+1. **Size of the constitution**
 
-    It is the lengthiest-ever written constitution. This is due to it got reproduced a large portion of the _Government of India Act 1935_, constitution makers do not want to leave any doubts or issues in future, and also contains the constitutional provisions for states. It is also one of the most comprehensive constitutions, covering a wide range of topics such as the organization of the government, fundamental rights, directive principles of state policy, and the procedures for amending the Constitution. The size of the Indian Constitution reflects the diverse and complex nature of Indian society, and the need to provide for a wide range of rights and protections for citizens. Additionally, the Indian Constitution has been amended over 100 times since its adoption in 1950, which has added to its size and complexity.
- 2. **Written constitution**
+   It is the lengthiest-ever written constitution. This is due to it got reproduced a large portion of the *Government of India Act 1935*, constitution makers do not want to leave any doubts or issues in future, and also contains the constitutional provisions for states. It is also one of the most comprehensive constitutions, covering a wide range of topics such as the organization of the government, fundamental rights, directive principles of state policy, and the procedures for amending the Constitution. The size of the Indian Constitution reflects the diverse and complex nature of Indian society, and the need to provide for a wide range of rights and protections for citizens. Additionally, the Indian Constitution has been amended over 100 times since its adoption in 1950, which has added to its size and complexity.
+2. **Written constitution**
 
-    Even though the constitution is written, conventions also play a part insofar as they are in keeping with the provisions of the constitution.
- 3. **Rigid-Flexible constitution**
+   Even though the constitution is written, conventions also play a part insofar as they are in keeping with the provisions of the constitution.
+3. **Rigid-Flexible constitution**
 
-    A combination of both rigid and flexible types as, some articles can be easily amended. At the same time, some need a special majority(_Article 368_) to amend including ratification by one-half of the state legislatures.
- 4. **quasi-federal constitution**
+   A combination of both rigid and flexible types as, some articles can be easily amended. At the same time, some need a special majority(*Article 368*) to amend including ratification by one-half of the state legislatures.
+4. **quasi-federal constitution**
 
-    a federal constitution with a strong unitary or pro-centre bias. federal in structure but unitary in spirit. Normally federal in nature but can become unitary in emergency situations.
- 5. **Parliamentary system**
+   a federal constitution with a strong unitary or pro-centre bias. federal in structure but unitary in spirit. Normally federal but can become unitary in emergencies.
+5. **Parliamentary system**
 
-    A parliamentary system with an elected president as nominal or constitution head. A parliamentary system will give a more responsible executive on the other hand a presidential system will give a more stable executive.
- 6. **A mix of parliamentary sovereignty and judicial supremacy**
+   A parliamentary system with an elected president as nominal or constitution head. A parliamentary system will give a more responsible executive on the other hand a presidential system will provide a more stable executive.
+6. **A mix of parliamentary sovereignty and judicial supremacy**
 
-    The powers and functions of each body are defined and delimited in the constitution. So both parliament and the supreme court are supreme in their spheres.
- 7. **Adult franchise**
+   The powers and functions of each body is defined and delimited in the constitution. So both parliament and the supreme court are supreme in their spheres.
+7. **Adult franchise**
 
-    Universal adult franchise with one man one vote
- 8. **Fundamental rights**
+   Universal adult franchise with one man one vote
+8. **Fundamental rights**
 
-    Fundamental rights are defined and enforceable. Any violations can be challenged in court as defined in the law. But there are certain restrictions and that too is defined. The constitution presents a balance between the rights of the individual on the one hand and the interest of society and the needs of the security of the state on the other hand.
- 9. **Directive Principles of State Policy**
+   Fundamental rights are defined and enforceable. Any violations can be challenged in court as defined in the law. But there are certain restrictions and that too is defined. The constitution presents a balance between the rights of the individual on the one hand and the interest of society and the needs of the state's security on the other hand.
+9. **Directive Principles of State Policy**
 
-    Inspired by the Irish constitution, DPSPs are non-enforceable socio-economic rights of the people, which in fact are expected to guide the governance of the country.
+   Inspired by the Irish constitution, DPSPs are non-enforceable socio-economic rights of the people, which are expected to guide the governance of the country.
 10. **Citizenship**
 
     Single citizenship with a federal structure inspired by the British constitution
@@ -138,15 +142,15 @@ The Indian Independence Act of 1947 was an Act of the British Parliament that pa
 
 The concept of a constituent assembly had always been linked with the growth of the national movement in India. In opposition to the 1919 Act, in 1922 it was Mahatma Gandhi who made the first definite reference to a constituent assembly even though without those words or under that particular name.
 
- 1. In 1922, a joint meeting of members of the two houses of the central legislature was held in Simla which decided to call a convention for the framing of the constitution. (1919 act created the bicameral legislature at the central level)
- 2. Under the presidentship of Sir Tej Bahadur Sapru, in April 1924, a "National Convention" was held and they drafted a "Commonwealth of India Bill".
- 3. With slight amendments of a committee by all party conference held in January 1925, the bill was sent to an influential labour party member and was presented in the House of Commons. (The fate of the Bill was sealed due to the defeat of the Labour party at that time)
- 4. In November 1927, the Simon Commission formed faced backlash due to there were no Indians in the review commission.
- 5. The Motilal Nehru Report in 1928 was an important milestone in the Indian freedom struggle and helped to shape the future of the country. It set the stage for the drafting of the Indian Constitution and the establishment of a democratic and secular republic. It calls for dominion status for India, a federal government with limited powers, provincial governments with wide-ranging powers, fundamental rights, an independent judiciary, abolition of untouchability and the establishment of a secular state.
- 6. A formal call for a constituent assembly was put forward by a Congress working committee in 1934. And also it reiterates a constituent assembly elected based on adult suffrage.
- 7. After the failure of the Cripps mission no updates till world war 2 ended in 1945.
- 8. As per the Cabinet Mission in 1945, a representative body consisting of members elected from the provincial assemblies and nominated by the princely states is formed as the constituent assembly.
- 9. The constituent assembly started working on 9 December 1946 and the assembly became complete after the partition in 1947. The assembly was believed to be sovereign and representative.
+1. In 1922, a joint meeting of members of the two houses of the central legislature was held in Simla which decided to call a convention for the framing of the constitution. (1919 act created the bicameral legislature at the central level)
+2. Under the presidentship of Sir Tej Bahadur Sapru, in April 1924, a "National Convention" was held and they drafted a "Commonwealth of India Bill".
+3. With slight amendments of a committee by all party conference held in January 1925, the bill was sent to an influential labour party member and was presented in the House of Commons. (The fate of the Bill was sealed due to the defeat of the Labour party at that time)
+4. In November 1927, the Simon Commission formed faced backlash due to there were no Indians in the review commission.
+5. The Motilal Nehru Report in 1928 was an important milestone in the Indian freedom struggle and helped to shape the future of the country. It set the stage for the drafting of the Indian Constitution and the establishment of a democratic and secular republic. It calls for dominion status for India, a federal government with limited powers, provincial governments with wide-ranging powers, fundamental rights, an independent judiciary, abolition of untouchability and the establishment of a secular state.
+6. A formal call for a constituent assembly was put forward by a Congress working committee in 1934. And also it reiterates a constituent assembly elected based on adult suffrage.
+7. After the failure of the Cripps mission no updates till world war 2 ended in 1945.
+8. As per the Cabinet Mission in 1945, a representative body consisting of members elected from the provincial assemblies and nominated by the princely states is formed as the constituent assembly.
+9. The constituent assembly started working on 9 December 1946 and the assembly became complete after the partition in 1947. The assembly was believed to be sovereign and representative.
 10. The Objective Resolution was moved by Nehru on 13 December 1946 and finally adopted on 22 January 1947, which acts as the philosophy and guiding principle for the creation of the constitution.
 
 The basic idea was to retain the fundamentals of our polity but also evolve with time. The constitution is not a complete break free from the colonial past, but a progressive one. For instance, institutions and conventions took along, because those were born on Indian soil and had the foundation, so they decided to grow from there, instead of a new one.
@@ -155,11 +159,11 @@ The basic idea was to retain the fundamentals of our polity but also evolve with
 
 The preamble is the fundamental values and philosophy of a constitution.
 
-It begins with the phrase **_"We, the people of India_**" and emphasizes the principles of justice, liberty, equality, and fraternity. The core idea is to give the people a "sovereign democratic republic". It underscores the importance of democracy, secularism, and socialism, and affirms the sovereignty, unity, and integrity of the nation. Some words are still vaguely defined, those words need a definite description to work as expected to build a just society.
+It begins with the phrase ***"We, the people of India"*** and emphasizes the principles of justice, liberty, equality, and fraternity. The core idea is to give the people a "sovereign democratic republic". It underscores the importance of democracy, secularism, and socialism, and affirms the sovereignty, unity, and integrity of the nation. Some words are still vaguely defined, those words need a definite description to work as expected to build a just society.
 
 ### Sovereignty
 
-American sociologist **Charles Cooley** defines a sovereign state as one _"where there resides within itself a supreme and absolute power acknowledging no superior"_. In political science terms, sovereignty means absolute and supreme power is not controlled by any internal or external forces. Unlike the USA and Australia, In India, there is a separation of powers, but no division in sovereignty. All the organs and functionaries of the Union and the States draw their power only from the people of India. The power ultimately rests with the people, who can elect their representatives and hold them accountable for their actions. In the _Keshavananda Bharti Case_, Justice Mathew said India was "sovereign" because it could make or unmake any decision with respect to itself without any interference from the outside.
+American sociologist **Charles Cooley** defines a sovereign state as one *"where there resides within itself a supreme and absolute power acknowledging no superior"*. In political science terms, sovereignty means absolute and supreme power is not controlled by any internal or external forces. Unlike the USA and Australia, In India, there is a separation of powers, but no division in sovereignty. All the organs and functionaries of the Union and the States draw their power only from the people of India. The power ultimately rests with the people, who can elect their representatives and hold them accountable for their actions. In the *Keshavananda Bharti Case*, Justice Mathew said India was "sovereign" because it could make or unmake any decision concerning itself without any interference from the outside.
 
 ### Socialism
 
@@ -169,19 +173,19 @@ It signifies the commitment of the Indian state to build a socialist society thr
 
 Added to the preamble via the 42nd Amendment in 1976.
 
-**Donald Eugene Smith** defines secularism as: _"The secular state is a state which gives individual and corporate freedom of religion, is not constitutionally connected to a particular religion, nor does it seek either to promote or interfere with religion"._
+**Donald Eugene Smith** defines secularism as: *"The secular state is a state which gives individual and corporate freedom of religion, is not constitutionally connected to a particular religion, nor does it seek either to promote or interfere with religion".*
 
-Justice **M. H Beg** said in _Ziyauddin Burhammudin Bukhari_ Vs. _Brijmohan Ramdass Mehra and Bros._(1975): _"The secular state, rising above all differences of religion, attempts to secure the good of all its citizens irrespective of their religious beliefs and practices"_
+Justice **M. H Beg** said in *Ziyauddin Burhammudin Bukhari* Vs. *Brijmohan Ramdass Mehra and Bros.*(1975): *"The secular state, rising above all differences of religion, attempts to secure the good of all its citizens irrespective of their religious beliefs and practices"*
 
-In the **_Kesavananda Bharti_** case and _Minerva Mills case_, secularism was held to be a part of the basic structure.
+In the ***Kesavananda Bharti*** case and *Minerva Mills case*, secularism was held to be a part of the basic structure.
 
-In _S.R. Bommai_ Vs. _Union of India_(1994) SC justified the imposition of President's rule in the BJP-ruled states in the aftermath of the Babri Masjid demolition, on the ground of threat to 'secularism'.
+In *S.R. Bommai* Vs. *Union of India*(1994) SC justified the imposition of President's rule in the BJP-ruled states in the aftermath of the Babri Masjid demolition, on the ground of threat to 'secularism'.
 
-In the Ayodhya case(1995), SC said: _"It is clear from the constitutional scheme that it guarantees equality in the matter of religion to all individuals and groups irrespective of their faith emphasizing that there is no religion of the state itself. The concept of secularism is one facet of the right to equality woven as the central golden thread in the fabric depicting the pattern of the scheme in our constitution."_
+In the Ayodhya case(1995), SC said: *"It is clear from the constitutional scheme that it guarantees equality in the matter of religion to all individuals and groups irrespective of their faith emphasizing that there is no religion of the state itself. The concept of secularism is one facet of the right to equality woven as the central golden thread in the fabric depicting the pattern of the scheme in our constitution."*
 
-Unlike the west, in India, secularism was never born out of the conflict between the church and the state. It was perhaps rooted in India's history and culture, a very likely response to her pluralism or the desire of the founding fathers to be just and fair to all communities irrespective of their numbers. India's secularism is based on the principle of **_"Sarva Dharma Sambhav"_** which means equal respect and tolerance towards all religions. In contrast, in the West, secularism is primarily about keeping religion separate from the state and ensuring that the government does not favour any particular religion.
+Unlike the west, in India, secularism was never born out of the conflict between the church and the state. It was perhaps rooted in India's history and culture, a very likely response to her pluralism or the desire of the founding fathers to be just and fair to all communities irrespective of their numbers. India's secularism is based on the principle of ***"Sarva Dharma Sambhav"*** which means equal respect and tolerance towards all religions. In contrast, in the West, secularism is primarily about keeping religion separate from the state and ensuring that the government does not favour any particular religion.
 
-In the **_Shah Bano case of 1985,_** SC uphold the idea of secularism, but due to political pressure, the government passed the **_Muslim Women (Protection of Rights on Divorce) Act, 1986_**, which nullified the SC judgement.
+In the ***Shah Bano case of 1985,*** SC uphold the idea of secularism, but due to political pressure, the government passed the ***Muslim Women (Protection of Rights on Divorce) Act, 1986***, which nullified the SC judgement.
 
 The basic idea is to have a polity that doesn't discriminate based on religion, caste, etc and strives to have a social order free from communal conflicts, but based on Justice, social, economic and political.
 
@@ -191,7 +195,7 @@ Democracy is a form of government in which power is held by the people, either d
 
 ### Republican character
 
-American sociologist **Charles Cooley** defines a republican form of government as _"a government by representatives chosen by the people"_. **Justice Hidayatullah** says: _"A Republic is a state in which the supreme power rests in the final analysis with the people and not with a single individual like a king or the like. India is still a part of the commonwealth but as "a sovereign state"._ The aim is to attain social and economic democracy via political democracy.
+American sociologist **Charles Cooley** defines a republican form of government as *"a government by representatives chosen by the people"*. **Justice Hidayatullah** says: *"A Republic is a state in which the supreme power rests in the final analysis with the people and not with a single individual like a king or the like. India is still a part of the commonwealth but as "a sovereign state".* The aim is to attain social and economic democracy via political democracy.
 
 ### Justice
 
@@ -219,7 +223,7 @@ Unity and integrity of the nation are needed to protect an individual's dignity.
 
 ## Union and its territories
 
-**Indian union is an indestructible union of destructible states.** The first schedule of the constitution contains details about the name, territory of states and union territories. The name "_Bharat_" represents the rich diversity of Indian culture and traditions and is a symbol of the country's unity in diversity.
+**Indian union is an indestructible union of destructible states.** The first schedule of the constitution contains details about the name, territory of states and union territories. The name "*Bharat*" represents the rich diversity of Indian culture and traditions and is a symbol of the country's unity in diversity.
 
 **Article 1**: name and territory of states and union territories
 
@@ -227,7 +231,7 @@ Unity and integrity of the nation are needed to protect an individual's dignity.
 
 **Article 3**: states can be altered by the parliament. even though states have a say in it, it is not binding on the president and parliament.
 
-**Article 4**: alteration of states can be done via simple majority through ordinary legislation. The _Berubari Union_ case was a landmark that dealt with the issue of the cession of territory. The case arose in the context of a boundary dispute between India and Pakistan over the Berubari Union, a small strip of land in present-day West Bengal. The Supreme Court of India held that the cession of territory required the amendment of the Indian Constitution and that the Parliament had no power to cede Indian territory to a foreign state without amending the Constitution. And it was done through the _9th constitution amendment_. The case had significant implications for India's federal structure and the balance of power between the Centre and the States.
+**Article 4**: alteration of states can be done via simple majority through ordinary legislation. The *Berubari Union* case was a landmark that dealt with the issue of the cession of territory. The case arose in the context of a boundary dispute between India and Pakistan over the Berubari Union, a small strip of land in present-day West Bengal. The Supreme Court of India held that the cession of territory required the amendment of the Indian Constitution and that the Parliament had no power to cede Indian territory to a foreign state without amending the Constitution. And it was done through the *9th constitution amendment*. The case had significant implications for India's federal structure and the balance of power between the Centre and the States.
 
 ## Citizenship
 
@@ -253,13 +257,13 @@ The **Citizenship Amendment Act (CAA) 2020** is an amendment to the Citizenship 
 
 ## Fundamental rights
 
-**Justice Gajendragadkar** described FR as the **_"very foundation and cornerstone of the democratic way of life ushered in this country by the constitution"_**
+**Justice Gajendragadkar** described FR as the ***"very foundation and cornerstone of the democratic way of life ushered in this country by the constitution"***
 
 Fundamental Rights were constituted with the aim of the unity of the nation and the interests of the public. It also incorporates and implements the basic principles enunciated in the Universal Declaration of Human Rights.
 
-According to **Justice Bhagawati**: **_"These fundamental rights represent the basic values cherished by the people of this country since the Vedic times and they are calculated to protect the dignity of the individual and create conditions in which every human being can develop his personality to the fullest extent. They weave a pattern of guarantee on the basic structure of human rights and impose negative obligations on the state not to encroach on individual liberty in its various dimensions."_**
+According to **Justice Bhagawati**: ***"These fundamental rights represent the basic values cherished by the people of this country since the Vedic times and they are calculated to protect the dignity of the individual and create conditions in which every human being can develop his personality to the fullest extent. They weave a pattern of guarantee on the basic structure of human rights and impose negative obligations on the state not to encroach on individual liberty in its various dimensions."***
 
-FR is not absolute but has reasonable restrictions. As **Patanjali Sastry**, CJI said in the _State of West Bengal vs Subodh Gopal Bose of 1954_, **_"The whole object of Part 3 of the constitution is to provide protection for the freedoms and rights mentioned therein against arbitrary invasion by the State."_**
+FR is not absolute but has reasonable restrictions. As **Patanjali Sastry**, CJI said in the *State of West Bengal vs Subodh Gopal Bose of 1954*, ***"The whole object of Part 3 of the constitution is to protect the freedoms and rights mentioned therein against arbitrary invasion by the State."***
 
 **Article 12**: definition of a state. the definition is exhaustive and is subjected to the decision of the court under each case.
 
@@ -267,7 +271,7 @@ FR is not absolute but has reasonable restrictions. As **Patanjali Sastry**, CJI
 
 ### Equality before the law or Equal protection of the laws
 
-**Article 14** enunciates the fundamental right of every person not to be denied "equality before the law" and "equal protection of the laws" within the territory of India. While the two concepts are similar, equality before the law emphasizes the importance of equal access to the legal system, while equal protection of laws emphasizes the importance of equal treatment under the law. Not only applicable to citizens but also to all persons. This article embodies the UDHR principle of "All are equal before the law and are entitled without discrimination to equal protection of the law". Basically, _rule of law_ and _equal justice_.
+**Article 14** enunciates the fundamental right of every person not to be denied "equality before the law" and "equal protection of the laws" within the territory of India. While the two concepts are similar, equality before the law emphasizes the importance of equal access to the legal system, while equal protection of laws emphasizes the importance of equal treatment under the law. Not only applicable to citizens but also to all persons. This article embodies the UDHR principle of "All are equal before the law and are entitled without discrimination to equal protection of the law". Basically, *rule of law* and *equal justice*.
 
 It is observed by **CJI Patanjali Sastri**, that the second expression is a corollary of the first and it is difficult to imagine a situation in which the violation of the first will not be the violation of the second.
 
@@ -275,25 +279,25 @@ The core idea is that the law and its implementation should be non-discriminator
 
 SC said those who are not equal should not be treated equally. But only reasonable and rational classification is permissible.
 
-In _E. P. Royappa vs State of Tamil Nadu,_ **Justice Chandrachud** and **Justice Krishna Iyer** observed: _"Equality is a dynamic concept with many aspects and dimensions and it cannot be 'cribbed, canned and confined' within traditional and doctrine limits"._
+In *E. P. Royappa vs State of Tamil Nadu,* **Justice Chandrachud** and **Justice Krishna Iyer** observed: *"Equality is a dynamic concept with many aspects and dimensions and it cannot be 'cribbed, canned and confined' within traditional and doctrine limits".*
 
 The arbitrary or reasonable classification is based on intelligible differentia and rational relationship between the differentia and the object sought. The scope of the application of this article is widened and determined by the court. Intelligible differentia is a legal term that refers to a characteristic or feature that distinguishes a class of persons or things from others.
 
 ### Non-discrimination of religion, caste, sex, etc
 
-**Article 15** enjoins the state not to discriminate based on religion, caste, sex, place of birth or any of them. This right is exclusive to citizens only. 93rd constitutional amendment added clause (5) which empowers parliament to make special provisions for socially and educationally backward classes concerning admission to educational institutions. But the term "socially and educationally backward class" is not defined. SC held that _"caste and poverty may be both relevant for determining the backwardness. But neither caste alone nor poverty alone could be the determining test."_
+**Article 15** enjoins the state not to discriminate based on religion, caste, sex, place of birth or any of them. This right is exclusive to citizens only. 93rd constitutional amendment added clause (5) which empowers parliament to make special provisions for socially and educationally backward classes concerning admission to educational institutions. But the term "socially and educationally backward class" is not defined. SC held that *"caste and poverty may be both relevant for determining the backwardness. But neither caste alone nor poverty alone could be the determining test."*
 
-In _State of UP vs Pradeep Tando of 1975_ SC held that while reservations for candidates coming from rural areas are unconstitutional, for those coming from the Hill and Uttarakhand areas are valid.
+In *State of UP vs Pradeep Tando of 1975* SC held that while reservations for candidates coming from rural areas are unconstitutional, for those coming from the Hill and Uttarakhand areas are valid.
 
-In the _Ashok Thakur vs Union of India_, SC put its stamp of approval on 27% reservations for OBCs in educational institutions subject to exclusion of creamy layer and a review of the quota every five years.
+In the *Ashok Thakur vs Union of India*, SC put its stamp of approval on 27% reservations for OBCs in educational institutions subject to exclusion of creamy layer and a review of the quota every five years.
 
 ### Equality of opportunity in public employment
 
-The basic principle in **Article 16** is that of equality of opportunity and non-discrimination in public employment. Clauses (1) and (2) support this and clauses (3), (4), (4A), (4B) and (5) provide the exceptions. The clauses are treated differently in different cases. Article 16(4) empowers the state to make provisions for the reservation of appointments or posts in favour of any **_"socially and educationally backward classes"_** who are under-represented in the services. Also, SC has clarified that reservations under Article 16(4) are not a fundamental right, but a discretionary power of the State. This clause is considered an extension of the general rule to achieve the objective of equality, in some cases. But SC has also emphasized that the reservations should not be at the cost of efficiency in administration and should not violate the fundamental rights of other citizens(Article 335).
+The basic principle in **Article 16** is that of equality of opportunity and non-discrimination in public employment. Clauses (1) and (2) support this and clauses (3), (4), (4A), (4B) and (5) provide the exceptions. The clauses are treated differently in different cases. Article 16(4) empowers the state to make provisions for the reservation of appointments or posts in favour of any ***"socially and educationally backward classes"*** who are under-represented in the services. Also, SC has clarified that reservations under Article 16(4) are not a fundamental right, but a discretionary power of the State. This clause is considered an extension of the general rule to achieve the objective of equality, in some cases. But SC has also emphasized that the reservations should not be at the cost of efficiency in administration and should not violate the fundamental rights of other citizens(Article 335).
 
-**Mandal case**: Officially known as _Indra Sawhney vs Union of India_, 1992, SC upheld the validity of 27% of reservation for OBC-NCL as per the Mandal commission report. SC also reiterates the total reservation quota should not exceed 50%, except in some extraordinary cases and the application of **Article 335**. Also, the reservation is for the initial employment alone but not for promotions.
+**Mandal case**: Officially known as *Indra Sawhney vs Union of India*, 1992, SC upheld the validity of 27% of reservation for OBC-NCL as per the Mandal commission report. SC also reiterates the total reservation quota should not exceed 50%, except in some extraordinary cases and the application of **Article 335**. Also, the reservation is for the initial employment alone but not for promotions.
 
-Reservation to technical posts and super speciality courses in medical colleges are considered case-to-case and is not permissible to lower the qualification just for the sake of reservation. for instance, in _Kartar Singh vs State of MP(1999)_ SC disallowed lowering of qualifications for admission to super speciality medical courses in favour of reserved category candidates.
+Reservation to technical posts and super speciality courses in medical colleges are considered case-to-case and is not permissible to lower the qualification just for the sake of reservation. for instance, in *Kartar Singh vs State of MP(1999)* SC disallowed lowering of qualifications for admission to super speciality medical courses in favour of reserved category candidates.
 
 ### Abolition of untouchability
 
@@ -304,3 +308,28 @@ The **Protection of Civil Rights Act, of 1976** is an important law in India tha
 ### Abolition of titles
 
 **Article 18** provides for the abolition of titles. The article states that no citizen of India shall accept any title from a foreign state, and no person holding any office of profit or trust under the state shall accept any title from any authority without the consent of the President of India. The abolition of titles was an important step towards establishing equality and eliminating social distinctions based on caste, religion, and wealth.
+
+### Freedom of Speech and Expression
+
+**Article 19(1)(a)** guarantees every Indian citizen the right to freedom of speech and expression. Although freedom of the press is not specified but is considered included in freedom of speech and expression. In *Romesh Thapar vs State of Madras of 1950*, **Justice Pathanjali Sastri** said: ***"Freedom of speech and of the press lay at the foundation of all democratic organisations, for without free political discussion no public education, so essential for the proper functioning of the process of popular government, is possible."***
+
+Also in *Indian Express Newspapers vs Union of India of 1985* **SC** said: ***"It is the primary duty of the courts to uphold the freedom of the press and invalidate all laws or administrative actions which interfere with its contrary to the constitutional mandate."***
+
+In *Maneka Gandhi vs Union of India of 1978* **SC** held that there are no geographical limitations to freedom of speech and expression.
+
+The right to information is implicit in **Article 19(1)(a)**. The **Right to Information Act of 2005** specially confers all citizens the right to access information and makes it obligatory for all the public authorities to disclose information, but with certain restrictions.
+
+Reasonable limits or restrictions can be imposed on the exercise of the right to freedom of speech and expression under **Article 19(2)** in the interests or on the grounds of:
+
+1. Security of the state
+2. Friendly relations with foreign countries
+3. Public order
+4. Decency or morality
+5. Contempt of court
+6. Defamation
+7. Incitement to offence
+8. Sovereignty and integrity of India
+
+If a situation arises which is a threat to the *security of the state* and are serious and aggravated forms of public disorder, the restriction to the freedom of speech and expression can be imposed under **Article 19(2)**.
+
+With a view to avoiding embarrassment to India through persistent and malicious propaganda, restrictions can be imposed on the right to freedom of speech on the ground of *friendly relations with foreign countries* under **Article 19(2)**.
