@@ -24,6 +24,8 @@ title: 'Indian Economy: Infrastructure'
 * [Indian Railways](#indian-railways)
 * [Road Transport](#road-transport)
 * [Water transport](#water-transport)
+* [Air transport](#air-transport)
+* [Communications](#communications)
 
 ## Power or Electricity
 
@@ -232,3 +234,30 @@ Port location in India is influenced by various **geographical factors**, such a
 * The depth and width of the continental shelf. The continental shelf is the submerged extension of the landmass that slopes gently seaward from the shore. It provides a shallow and stable platform for port construction and navigation. The width and depth of the continental shelf vary along different parts of the Indian coastline. The west coast has a narrow and steep continental shelf, while the east coast has a wide and gentle continental shelf.
 * The tidal range and currents. The tidal range is the vertical difference between high tide and low tide levels at a given location. It affects the water depth and accessibility of ports. The currents are the horizontal movements of water caused by various factors such as wind, temperature, salinity, etc. They affect the speed and direction of vessels as well as sedimentation and erosion at ports. The tidal range and currents vary along different parts of the Indian coastline. The west coast has a high tidal range (up to 11 m) and strong currents, while the east coast has a low tidal range (up to 2 m) and weak currents.
 * The climatic conditions and natural hazards. The climatic conditions such as temperature, rainfall, humidity, wind, etc. affect the operational efficiency and safety of ports. Natural hazards such as cyclones, storms, floods, tsunamis, etc. pose risks to port infrastructure and vessels. The climatic conditions and natural hazards vary along different parts of the Indian coastline. The west coast has a hot and humid climate with moderate rainfall, while the east coast has a tropical climate with heavy rainfall. The west coast is less prone to cyclones than the east coast
+
+## Air transport
+
+The **Airport Authority of India (AAI)** is a public sector enterprise that was formed in 1995 by merging the International Airports Authority of India (IAAI) and the National Airports Authority of India (NAAI). The AAI works under the Ministry of Civil Aviation and provides air traffic management services over the Indian airspace and adjoining oceanic areas. The AAI also operates more than 100 airports across the country, including 34 international airports and 10 customs airports. The AAI also conducts recruitment for various posts in its organization.
+
+**Ude Desh ka aam nagrik (UDAN)** is a regional connectivity scheme launched by the Ministry of Civil Aviation in 2016  as a part of the National Civil Aviation Policy (NCAP). The main objective of the scheme is to develop the regional aviation market and provide affordable air travel to the common citizens in small towns and remote areas. The scheme also aims to operationalise 100 unserved and underserved airports and start at least 1,000 air routes across the country. UDAN stands for Ude Desh ka Aam Nagarik, which means "letting the common citizen of the country fly". It also aims to make air travel affordable and widespread by capping the fares at Rs. 2500 per seat per hour for half of the seats on each flight. It is jointly funded by the central government and state governments, several states have signed a Memorandum of Understanding (MoU) with the union government for this scheme.
+
+**National Civil Aviation Policy (NCAP)** is a government policy that was approved by the Union Cabinet on 15 June 2016. The policy aims to create an ecosystem that enables safe, sustainable, affordable and accessible air travel and cargo transportation in India. The policy covers various aspects of civil aviation such as regional connectivity, airport development, air cargo, air navigation services, helicopter operations, maintenance and repair organisations, flying training institutes and ground handling services. The policy also sets some targets such as increasing domestic ticketing to 30 crores by 2022 and 50 crore by 2027; increasing international ticketing to 20 crores by 2027; increasing cargo volumes to 10 million tonnes by 2027; creating an aviation hub in India; and enhancing the ease of doing business through deregulation and simplified procedures. The policy enhances the air navigation services by implementing GPS-Aided Geo Augmented Navigation (GAGAN) system; modernizing communication, navigation and surveillance systems; implementing performance-based navigation procedures; establishing an independent regulatory body for ANS providers; and developing a National Airspace Management Plan (NAMP).
+
+## Communications
+
+**Telecom Regulatory Authority of India** is an independent statutory body established by the Telecom Regulatory Authority of India Act, 1997 Act of Parliament to regulate telecom services, tariffs, quality of service and consumer protection in India. TRAI is an independent statutory body that does not work under any ministry. However, it advises the government on policy matters related to telecom. The **Ministry of Communications** is responsible for formulating policies and programmes for the development of telecommunication services in India. 
+
+Some of its **functions** include:
+
+* Issuing licenses to telecom service providers
+* Laying down standards of technical compatibility and interconnection
+* Ensuring compliance with universal service obligations
+* Protecting the interests of consumers and service providers
+* Promoting competition and efficiency in the telecom sector
+* Advising the government on policy matters related to telecom
+
+**BharatNet** is a project of national importance to establish a highly scalable network infrastructure accessible on a non-discriminatory basis, to provide on-demand, affordable broadband connectivity of 2 Mbps to 20 Mbps for all households and on-demand capacity to all institutions, to realise the vision of Digital India. BharatNet is also known as Bharat Broadband Network Limited (BBNL), which is a central public sector undertaking, set up by the Department of Telecommunications.
+
+The project aims to connect all the 2.5 lakh gram panchayats in the country and provide 100 Mbps connectivity to all gram panchayats (GPs) by using an optimal mix of underground fiber, fiber over power lines, radio and satellite media. The project is funded by the Universal Service Obligation Fund (USOF), which was set up for improving telecom services in rural and remote areas of the country. The project is implemented in partnership with states and the private sector.
+
+BharatNet is the world’s largest rural broadband connectivity program, which is built under the Make in India initiative with no involvement of foreign companies. It is expected to facilitate the delivery of e-governance, e-health, e-education, e-banking, Internet and other services to rural India.
