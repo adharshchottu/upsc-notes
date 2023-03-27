@@ -22,6 +22,7 @@ title: Our Constitution Notes(A)
 * **[Union and its territories](#union-and-its-territories "")**
 * **[Citizenship](#citizenship "")**
 * **[Fundamental rights](#fundamental-rights "")**
+* **[Directive principles](#directive-principles "")**
 
 ## Historical underpinnings
 
@@ -45,7 +46,7 @@ The act aimed to address the problems that arose after the Regulating Act of 177
 
 ### Charter act of  1833
 
-It played a key role in the constitutional history of India by transferring power to the **British Crown**, laying the foundation for the British Raj, and establishing the foundations for a **centralized administration** and **Western-style education system** in India. This ultimately led to the emergence of a Western-educated Indian elite, who would play a significant role in the Indian independence movement. The act also made provision for the appointment of a **Governor-General of India** and the creation of a legislative council, which had the power to make laws for British India, but did not include any Indian representatives.
+It played a key role in the constitutional history of India by transferring power to the **British Crown**, laying the foundation for the British Raj, and establishing the foundations for a **centralized administration** and **Western-style education system** in India. This ultimately led to the emergence of a Western-educated Indian elite, who would play a significant role in the Indian independence movement. The act also made provision for the appointment of a **Governor-General of India** and the creation of a legislative council, which had the power to make laws for British India but did not include any Indian representatives.
 
 ### Act of 1858
 
@@ -61,11 +62,11 @@ The act expanded the membership of the Governor-General's executive council and 
 
 ### The Indian Councils Act of 1909
 
-Also known as the **Morley-Minto Reforms**, was an act of the British Parliament that aimed to increase the participation of Indians in the governance of British India. The act **expanded** the membership of the Imperial Legislative Council and the provincial councils and allowed for the election of some members, in addition to the appointment of members by the British government. It was the first legislation that introduced **communal representation** through separate electorates for Muslims, which created a separate Muslim electorate and reserved seats for Muslims in the legislative councils. This move further deepened the communal divide between Hindus and Muslims and is considered a major factor in the partition of India in 1947.
+Also known as the **Morley-Minto Reforms**, was an act of the British Parliament that aimed to increase the participation of Indians in the governance of British India. The act **expanded** the membership of the Imperial Legislative Council and the provincial councils. It allowed for the election of some members, in addition to the appointment of members by the British government. It was the first legislation that introduced **communal representation** through separate electorates for Muslims, which created a separate Muslim electorate and reserved seats for Muslims in the legislative councils. This move further deepened the communal divide between Hindus and Muslims and is considered a major factor in the partition of India in 1947.
 
 ### Government of India Act of 1919
 
-The Government of India Act of 1919, also known as the **Montagu-Chelmsford Reforms**, was an act passed by the British Parliament that implemented the recommendations of the Montagu-Chelmsford Report. The act aimed to increase the participation of Indians in the governance of British India and to bring about constitutional reform. The Act introduced a system of **dyarchy** or dual government. The Act also extended the franchise, separated the executive and legislative branches of government, and established a **bicameral legislature** for British India, consisting of a Council of State and a Legislative Assembly. The Act received mixed reactions in India, it was seen as a step forward in constitutional reform, but it was criticized by Indian nationalists for not going far enough in granting Indians real political power and for perpetuating British control over vital areas of governance. The act of 1919 was an important step towards the self-governance of British India, but it did not provide the full autonomy that the Indians were demanding. Simon commission was set up as part of the act after 10 years to review the act and reform it if necessary.
+The Government of India Act of 1919, also known as the **Montagu-Chelmsford Reforms**, was an act passed by the British Parliament that implemented the recommendations of the Montagu-Chelmsford Report. The act aimed to increase the participation of Indians in the governance of British India and to bring about constitutional reform. The Act introduced a system of **dyarchy** or dual government. The Act also extended the franchise, separated the executive and legislative branches of government, and established a **bicameral legislature** for British India, consisting of a Council of State and a Legislative Assembly. The Act received mixed reactions in India, it was seen as a step forward in constitutional reform, but it was criticized by Indian nationalists for not going far enough in granting Indians real political power and for perpetuating British control over vital areas of governance. The act of 1919 was an important step towards the self-governance of British India, but it did not provide the complete autonomy that the Indians were demanding. Simon commission was set up as part of the act after 10 years to review the act and reform it if necessary.
 
 ### Government of India Act 1935
 
@@ -78,18 +79,18 @@ It aimed to further constitutional reform in British India and increase the part
 * **Wavell plan:** It was a proposal put forth by British Field Marshal **Archibald Wavell in 1945** to address the political situation in British India, which was facing increasing demands for independence. The plan proposed the creation of a new executive council with equal numbers of Hindu and Muslim members, as well as representatives of other minorities, to serve as an advisory body to the British government. The plan also proposed the formation of a new British-Indian army, with equal representation of all communities, and the establishment of a joint defence council for India and Pakistan. The Wavell Plan was **rejected** by the Muslim League and the Indian National Congress and ultimately led to the partition of India and the creation of the independent states of India and Pakistan in 1947.
 * **Simla conference:** It was a meeting held in 1945 between the British Prime Minister **Clement Attlee**, and the leaders of the Indian independence movement, including Jawaharlal Nehru, Sardar Patel, and Maulana Abul Kalam Azad. The conference was held in Simla, India, and its purpose was to discuss the transfer of power from British colonial rule to Indian independence. The conference **failed** to resolve, and the British government later announced plans to divide British India into two separate countries, India and Pakistan.
 * **Cabinet mission:** It was a group of British politicians sent to India in 1946 to negotiate a political settlement between the Indian National Congress and the Muslim League and to finalize plans for the transfer of power from British colonial rule to Indian independence. The mission was headed by Lord Pethick-Lawrence, Secretary of State for India, and included Sir Stafford Cripps, a prominent Labour Party politician, and A. V. Alexander, First Lord of the Admiralty. The mission proposed a federal structure for independent India, but the proposals were **rejected** by both Congress and the Muslim League, leading to the eventual partition of India.
-* **Interim government:** The Interim Government of India was formed in 1946 as a result of negotiations between the British government and the Indian National Congress and Muslim League as part of the Cabinet Mission Plan. It was established as a transitional government to **oversee the transfer of power** from British rule to Indian independence. The government was headed by Jawaharlal Nehru as Prime Minister and included other key leaders. The Interim Government served for about one year until the formation of the independent government of India on August 15, 1947.
+* **Interim government:** The Interim Government of India was formed in 1946 due to negotiations between the British government and the Indian National Congress and Muslim League as part of the Cabinet Mission Plan. It was established as a transitional government to **oversee the transfer of power** from British rule to Indian independence. The government was headed by Jawaharlal Nehru as Prime Minister and included other key leaders. The Interim Government served for about one year until the formation of the independent government of India on August 15, 1947.
 * **Mountbatten plan:** The Mountbatten Plan, also known as the June 3rd Plan, was a proposal for the partition of British India presented by Lord **Louis Mountbatten**, the last British Viceroy of India, to the British government in 1947. The plan proposed the division of British India into **two separate independent countries**: India and Pakistan. The plan was accepted by the British government, and India and Pakistan gained independence on August 15, 1947. The partition led to large-scale communal violence and forced migration, resulting in the deaths of hundreds of thousands of people.
 
 ### Indian Independence Act of 1947
 
-The Indian Independence Act of 1947 was an Act of the British Parliament that partitioned British India into the two independent Dominions of India and Pakistan. It was passed on July 18, 1947, and came into effect on August 15, 1947. The Act provided for the transfer of power from the British government to the government of India and Pakistan, and also made provisions for the division of British Indian territory, including the division of the British Indian Army, the Indian Civil Service, and other administrative services. The Act also provided for the abolition of the British Paramountcy, which had previously been the authority of the British government over the Indian princely states. It was a significant step in the process of Indian independence from British colonial rule.
+The Indian Independence Act of 1947 was an Act of the British Parliament that partitioned British India into the two independent Dominions of India and Pakistan. It was passed on July 18, 1947, and came into effect on August 15, 1947. The Act provided for the transfer of power from the British government to the government of India and Pakistan and also made provisions for the division of British Indian territory, including the division of the British Indian Army, the Indian Civil Service, and other administrative services. The Act also provided for the abolition of the British Paramountcy, which had previously been the authority of the British government over the Indian princely states. It was a significant step in the process of Indian independence from British colonial rule.
 
 ## Salient features
 
 1. **Size of the constitution:** It is the lengthiest-ever written constitution. This is due to it got reproduced a large portion of the *Government of India Act 1935*, constitution makers do not want to leave any doubts or issues in future, and also contains the constitutional provisions for states. It is also one of the most comprehensive constitutions, covering a wide range of topics such as the organization of the government, fundamental rights, directive principles of state policy, and the procedures for amending the Constitution. The size of the Indian Constitution reflects the diverse and complex nature of Indian society, and the need to provide for a wide range of rights and protections for citizens. Additionally, the Indian Constitution has been amended over 100 times since its adoption in 1950, which has added to its size and complexity.
 2. **Written constitution:** Even though the constitution is written, conventions also play a part insofar as they are in keeping with the provisions of the constitution.
-3. **Rigid-Flexible constitution:** A combination of both rigid and flexible types as, some articles can be easily amended. At the same time, some need a special majority(*Article 368*) to amend including ratification by one-half of the state legislatures.
+3. **Rigid-Flexible constitution:** A combination of both rigid and flexible types as some articles can be easily amended. At the same time, some need a special majority(*Article 368*) to amend including ratification by one-half of the state legislatures.
 4. **quasi-federal constitution:** a federal constitution with a strong unitary or pro-centre bias. federal in structure but unitary in spirit. Normally federal but can become unitary in emergencies.
 5. **Parliamentary system:** A parliamentary system with an elected president as nominal or constitution head. A parliamentary system will give a more responsible executive on the other hand a presidential system will provide a more stable executive.
 6. **A mix of parliamentary sovereignty and judicial supremacy:** The powers and functions of each body are defined and delimited in the constitution. So both parliament and the supreme court are supreme in their spheres.
@@ -112,7 +113,7 @@ The concept of a constituent assembly had always been linked with the growth of 
 6. A formal call for a constituent assembly was put forward by a Congress working committee in 1934. And also it reiterates a constituent assembly elected based on adult suffrage.
 7. After the failure of the Cripps mission no updates till world war 2 ended in 1945.
 8. As per the Cabinet Mission in 1945, a representative body consisting of members elected from the provincial assemblies and nominated by the princely states is formed as the constituent assembly.
-9. The constituent assembly started working on 9 December 1946 and the assembly became complete after the partition in 1947. The assembly was believed to be sovereign and representative.
+9. The constituent assembly started working on December 9 1946 and the assembly became complete after the partition in 1947. The assembly was believed to be sovereign and representative.
 10. The Objective Resolution was moved by Nehru on 13 December 1946 and finally adopted on 22 January 1947, which acts as the philosophy and guiding principle for the creation of the constitution.
 
 The basic idea was to retain the fundamentals of our polity but also evolve with time. The constitution is not a complete break free from the colonial past, but a progressive one. For instance, institutions and conventions took along, because those were born on Indian soil and had the foundation, so they decided to grow from there, instead of a new one.
@@ -149,7 +150,7 @@ Unlike the west, in India, secularism was never born out of the conflict between
 
 In the ***Shah Bano case of 1985,*** SC uphold the idea of secularism, but due to political pressure, the government passed the ***Muslim Women (Protection of Rights on Divorce) Act, 1986***, which nullified the SC judgement.
 
-The basic idea is to have a polity that doesn't discriminate based on religion, caste, etc and strives to have a social order free from communal conflicts, but based on Justice, social, economic and political.
+The basic idea is to have a polity that doesn't discriminate based on religion, caste, etc and strives to have a social order free from communal conflicts, but based on social, economic and political justice.
 
 ### Democracy
 
@@ -197,7 +198,7 @@ Unity and integrity of the nation are needed to protect an individual's dignity.
 
 ## Citizenship
 
-Citizenship is a two-way relationship between a state and an individual. The individual has some obligations like paying taxes, following laws and showing allegiance to the state. In return, the state offers rights, privileges and protection to the individual. There existed no concept of Indian citizenship before 26 November 1949. This relationship is regulated by national law and recognized by International law. The **Indian citizenship act of 1955** laid down the law for the acquisition and termination of citizenship.
+Citizenship is a two-way relationship between a state and an individual. The individual has obligations like paying taxes, following laws and showing allegiance to the state. In return, the state offers rights, privileges and protection to the individual. There existed no concept of Indian citizenship before 26 November 1949. This relationship is regulated by national law and recognized by International law. The **Indian citizenship act of 1955** laid down the law for the acquisition and termination of citizenship.
 
 **Article 5**: Citizenship through domicile. A permanent residence and the intention to reside there indefinitely are two important ingredients constituting a 'domicile'. Citizenship is denoted by domicile and not vice-versa.
 
@@ -221,7 +222,7 @@ The **Citizenship Amendment Act (CAA) 2020** is an amendment to the Citizenship 
 
 **Justice Gajendragadkar** described FR as the ***"very foundation and cornerstone of the democratic way of life ushered in this country by the constitution"***
 
-Fundamental Rights were constituted with the aim of the unity of the nation and the interests of the public. It also incorporates and implements the basic principles enunciated in the Universal Declaration of Human Rights.
+Fundamental Rights were constituted with the aim of the nation's unity and the public's interests. It also incorporates and implements the basic principles enunciated in the Universal Declaration of Human Rights.
 
 According to **Justice Bhagawati**: ***"These fundamental rights represent the basic values cherished by the people of this country since the Vedic times and they are calculated to protect the dignity of the individual and create conditions in which every human being can develop his personality to the fullest extent. They weave a pattern of guarantee on the basic structure of human rights and impose negative obligations on the state not to encroach on individual liberty in its various dimensions."***
 
@@ -330,9 +331,9 @@ Under **Article 19(1)(g)** every citizen has the right to practice any professio
 
 **Article 20** safeguards the right of persons accused of crimes. With the 42nd Amendment, article 20 cannot be suspended even during an emergency by an order under **Article 359**.
 
-Under **Article 20(1)** the legislature is prohibited to make criminal laws having retrospective effect. So no person shall be convicted for any past criminal act before a law is created. But this immunity cannot be claimed against preventive detention or against demanding security from a person. Also, it is applicable only to criminal offences but would not cover trial nor is a person protected from civil liability. This provision safeguards individuals from ex post facto laws, which are laws that retroactively change the legal consequences or status of actions that were committed before the enactment of such laws. Ex post facto laws are considered unjust and arbitrary as they violate the principle of legal certainty and fairness.
+Under **Article 20(1)** the legislature is prohibited to make criminal laws having retrospective effect. So no person shall be convicted for any past criminal act before a law is created. But this immunity cannot be claimed against preventive detention or against demanding security from a person. Also, it applies only to criminal offences but would not cover trial nor is a person protected from civil liability. This provision safeguards individuals from ex post facto laws, which are laws that retroactively change the legal consequences or status of actions that were committed before the enactment of such laws. Ex post facto laws are considered unjust and arbitrary as they violate the principle of legal certainty and fairness.
 
-**Article 20(2)** of the Indian Constitution is a fundamental right that protects individuals from being prosecuted and punished for the same offence more than once. This provision embodies the principle of double jeopardy, which means that no one can be put in danger twice for the same cause. The purpose of this provision is to prevent harassment and oppression of an individual by repeated prosecutions for the same offence. This doesn't immunize a person from proceeding which are not before a court of law. Also, this clause is limited to criminal proceedings, so the person can be prosecuted again in the civil court.
+**Article 20(2)** of the Indian Constitution is a fundamental right that protects individuals from being prosecuted and punished for the same offence more than once. This provision embodies the principle of double jeopardy, which means that no one can be put in danger twice for the exact cause. The purpose of this provision is to prevent harassment and oppression of an individual by repeated prosecutions for the same offence. This doesn't immunize a person from proceeding which are not before a court of law. Also, this clause is limited to criminal proceedings, so the person can be prosecuted again in the civil court.
 
 **Article 20(3)** of the Indian Constitution is a fundamental right that protects individuals from being compelled to be a witness against themselves. This provision embodies the principle of the right against self-incrimination, which means that no one can be forced to give evidence that may incriminate them or expose them to criminal liability. The purpose of this provision is to ensure fairness and justice in criminal proceedings and to prevent coercion and torture of accused persons.
 
@@ -352,15 +353,15 @@ In the *pavement dwellers' case*, **SC** held that the right to livelihood is in
 
 **Article 22(1)** of the Indian Constitution is a part of the fundamental rights that protect against arrest and detention in certain cases. It states that no person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest nor shall he be denied the right to consult and to be defended by, a legal practitioner of his choice. This clause applies to both citizens and non-citizens who are arrested for any offence under any law. It ensures that the arrested person is aware of the charges against him or her and has access to legal aid.
 
-**Article 22(2)** of the Indian Constitution is a part of the fundamental rights that protect against arrest and detention in certain cases. It states that every person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of twenty-four hours of such arrest excluding the time necessary for the journey from the place of arrest to the court of the magistrate and no such person shall be detained in custody beyond the said period without the authority of a magistrate. This clause applies to both citizens and non-citizens who are arrested for any offence under any law.
+**Article 22(2)** of the Indian Constitution is a part of the fundamental rights that protect against arrest and detention in certain cases. It states that every person who is arrested and detained in custody shall be produced before the nearest magistrate within twenty-four hours of such arrest excluding the time necessary for the journey from the place of arrest to the court of the magistrate and no such person shall be detained in custody beyond the said period without the authority of a magistrate. This clause applies to both citizens and non-citizens who are arrested for any offence under any law.
 
 Clauses (3) to (7) of article 22 cover cases of preventive detention under a law. Preventive detention is for preventing an illegal act and not for punishing a person for any illegal activity.
 
 ### Right against exploitation
 
-**Article 23** seeks to protect against exploitation through traffic in human beings, begar and other forced labour. This is not to allow the state or anyone to compel a person to work against his will or to misuse the human person in any way. Exceptions are allowed in military services, social services, etc.
+**Article 23** protects against exploitation through traffic in human beings, begar and other forced labour. This is not to allow the state or anyone to compel a person to work against his will or to misuse the human person in any way. Exceptions are allowed in military services, social services, etc.
 
-**Article 24** prohibits the employment of children below the age of 14 in factories or mines or in any other hazardous job.
+**Article 24** prohibits the employment of children below the age of 14 in factories or mines or any other hazardous job.
 
 ### Freedom of conscience and religion
 
@@ -368,7 +369,7 @@ Clauses (3) to (7) of article 22 cover cases of preventive detention under a law
 
 ### Freedom to manage religious affairs
 
-**Article 26** allows all religious denominations to establish and maintain institutions for religious and charitable purposes, to manage their own affairs in matters of religion, and to own and acquire and administer property. The administration is subjected to law and the right is however subject to public order, morality and health. but not subject to other fundamental rights.
+**Article 26** allows all religious denominations to establish and maintain institutions for religious and charitable purposes, to manage their affairs in matters of religion, and to own and acquire and administer property. The administration is subjected to law and the right is however subject to public order, morality and health. but not subject to other fundamental rights.
 
 ### Freedom not to pay taxes for religious promotion
 
@@ -376,7 +377,7 @@ Clauses (3) to (7) of article 22 cover cases of preventive detention under a law
 
 ### Freedom not to attend religious instruction
 
-**Article 28** forbids totally any religious instructions being imparted in educational institutions wholly maintained by state funds. So every person has the freedom not to participate in religious instructions or worship.
+**Article 28** forbids any religious instructions being imparted in educational institutions wholly maintained by state funds. So every person has the freedom not to participate in religious instructions or worship.
 
 ### Protection of interests of minorities
 
@@ -398,7 +399,7 @@ Clauses (3) to (7) of article 22 cover cases of preventive detention under a law
 
 The purpose of the ***mandamus*** is to keep public authorities within their jurisdiction while performing public functions. Mandamus is not issued when the government has no legal obligation to do so. Mandamus can be issued for the violation of fundamental rights, for compelling inferior courts and other judicial bodies to exercise their jurisdiction, and for quashing illegal orders.
 
-A ***prohibition*** writ is a judicial writ issued by a superior court to an inferior court or tribunal to prevent it from exceeding its jurisdiction or usurping a jurisdiction that it does not possess. The writ of prohibition is also known as the ‘stay order’ as it stops the lower court or tribunal from continuing the proceedings or passing any order that is contrary to law. 
+A ***prohibition*** writ is a judicial writ issued by a superior court to an inferior court or tribunal to prevent it from exceeding its jurisdiction or usurping a jurisdiction it does not possess. The writ of prohibition is also known as the ‘stay order’ as it stops the lower court or tribunal from continuing the proceedings or passing any order that is contrary to law. 
 
 ***Quo warranto*** is a judicial writ issued by a superior court to an inferior court or a public authority to inquire into the legality of a claim of a person to a public office. The literal meaning of quo warranto is 'by what authority or warrant’. The writ of quo warranto can be issued against any person who holds a public office under the State or Central Government or any statutory or non-statutory body.
 
@@ -409,3 +410,43 @@ A ***prohibition*** writ is a judicial writ issued by a superior court to an inf
 Under **Article 34** Parliament may by law indemnify any person for anything done in contravention of fundamental rights for maintenance of order during the operation of martial law.
 
 **Article 35** lays down that the power to make laws to give effect to certain specified fundamental rights shall vest only in the Union parliament and not in state legislatures.
+
+## Directive principles
+
+Inspired by the Irish constitution and principles of the welfare state the Directive Principles of State policy are included in Part IV of the constitution. It can be considered a non-legal right of the community. Article 37 declares that the Directive Principles are "fundamental in the governance of the country" and that "it shall be the duty of the state to apply these principles in making laws." But DPSP is non-binding. It is added to achieve the ideal of a democratic welfare state and to bring about social and economic revolutions. It is to create a just social order with inequalities and inequities removed.
+
+Even the fundamental rights may be amended by Parliament to implement the Directives and such legislation may be held valid if it is not violating any basic features of the constitution.
+
+**Dr B. R. Ambedkar** said: ***"It is the intention of the assembly that in future both the legislature and the executive should not merely pay lip service to these principles enacted in this part, but that they should be made the basis of all executive and legislative action that may be taken hereafter in the matter of the governance of the country."***
+
+**Justice K. S. Hedge** said: ***"The purpose of the fundamental rights is to create an egalitarian society, to free all citizens from coercion or restriction by society and to make liberty available to all. The purpose of the Directive Principles is to fix certain social and economic goals for immediate attainment by bringing about a non-violent social revolution the constitution seeks to fulfil the basic needs of the common man and to change the structure of our society. It aims at making the Indian masses free in the positive sense."***
+
+**Article 38** which is the core of the DPSP lays down that the state shall strive to promote the welfare of the people by securing and protecting as effectively as it may a social order in which justice, social, economic and political, shall inform all the institutions of national life.
+
+**Article 39** directs the State to follow certain principles of policy to ensure social and economic justice. It covers the right to livelihood, the distribution of resources, the prevention of concentration of wealth, equal pay for equal work, the protection of workers and children, and the development of children.
+
+**Article 40** compels the State to take appropriate measures for establishing Village Panchayats and bestowing them with authority for functioning as units of self-government. The State shall take steps to organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government.
+
+**Article 41** demands that the State shall, within the limits of its economic capacity and development, make effective provision for securing the right to work, to education and to public assistance in cases of unemployment, old age, sickness and disablement, and in other cases of undeserved want.
+
+**Articles 42 and 43** provide for endeavouring to secure workers of a living wage, humane conditions of work, maternity relief, a decent standard of life and full enjoyment of leisure and social and cultural opportunities.
+
+**Article 44** of the Indian Constitution defines a Uniform Civil Code (UCC). It says, "The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India." A UCC means that all sections of the society irrespective of their religion shall be treated equally according to a national civil code, which shall apply to all uniformly. It covers areas like marriage, divorce, maintenance, inheritance, adoption and succession of the property. The debate for a UCC dates back to the colonial period in India. While criminal laws were codified and became common for the whole country, personal laws continued to be governed by separate codes for different communities. The proponents of UCC argue that it will promote national integration, gender justice, equality and dignity of women. The opponents of UCC contend that it will violate the fundamental right to freedom of religion and infringe upon the cultural diversity of India. In S. R. Bommai vs Union of India of 1994, SC upheld the legislative power of parliament to reform personal laws and urged the government to enact a uniform civil code to promote national integration.
+
+The original Article 45 made a fundamental right and was inserted as Article 21A under the Constitution (Eighty-Sixth Amendment) Act, 2002. The amended **Article 45** now states that "The State shall endeavour to provide early childhood care and education for all children until they complete the age of six years."
+
+**Article 46** of the Indian Constitution is particularly aimed at the educational and economic interests of the weaker sections of society. These include Scheduled Castes, Scheduled Tribes, and Other Backward Classes. The article states that it is the responsibility of the State to prioritize and promote the upliftment of these sections of society in the context of education and economic interests. The article also mandates the State to protect them from social injustice and all forms of exploitation.
+
+**Article 47** provides that the State will regard the raising of the level of nutrition and the standard of living of its people and the improvement of public health as among its primary duties and, in particular, the State will endeavour to bring about prohibition of the consumption except for medicinal purposes of intoxicating drinks and drugs which are injurious to health.
+
+**Article 48** provides that the State will endeavour to organise agriculture and animal husbandry on modern and scientific lines and will, in particular, take steps for preserving and improving the breeds, and prohibiting the slaughter, of cows and calves and other milch and draught cattle.
+
+**Article 48A** provides that the State shall endeavour to protect and improve the environment and safeguard the forests and wildlife of the country. The article was inserted by the Constitution (Forty-second Amendment) Act, 1976. It reflects the growing awareness and concern for environmental issues in India and the world. It also reflects the Gandhian principle of harmonious co-existence with nature.
+
+**Article 49** of the Indian Constitution imposes a duty on the State to enact laws and take measures to safeguard the monuments and places and objects of national importance from any kind of damage or harm. It also implies a duty for the citizens to respect and cooperate with the State in achieving these objectives.
+
+**Article 50** of the Indian Constitution imposes a duty on the State to enact laws and take measures to separate the judiciary from the executive in the public services of the State. It reflects the democratic and liberal values of the Indian Constitution. In Keshavananda Bharati v. State of Kerala (1973) the Supreme Court held that Article 50 was a part of the basic structure of the Constitution and could not be amended or abrogated by Parliament.
+
+**Article 51** of the Indian Constitution imposes a duty on the State to enact laws and take measures to promote international peace and security. This includes respecting the sovereignty and territorial integrity of other countries, avoiding aggression and violence, supporting disarmament and non-proliferation, etc. The article also imposes a duty on the State to maintain just and honourable relations between nations. International treaties do not automatically become part of the national law, it has to be incorporated by legislation by the Union under Article 253. When it comes to conflicting terms, national law overrides international law.
+
+The emphasis in the entire scheme of the constitution under the heading of the preamble, the Fundamental rights and the DPSP are on building an egalitarian society and on the concept of socio-economic justice. Fundamental rights and DPSP complement and supplement each other. If Fundamental rights represent the don'ts of the government, DPSP represents the dos. Fundamental rights are static and it tries to preserve the current settlements. But DPSP is dynamic and it tries to change this in order to achieve the objective of an egalitarian society. So some Fundamental rights have to undergo restriction in order to attain the objectives of DPSP.
