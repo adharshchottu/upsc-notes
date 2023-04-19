@@ -1,0 +1,3 @@
+[submodule "themes/upsc-notes-theme"]
+	path = themes/upsc-notes-theme
+	url = https://github.com/adharshchottu/upsc-notes-theme.git
