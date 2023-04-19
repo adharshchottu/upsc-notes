@@ -9,43 +9,12 @@
   </header>
   {{ end }}
 
-  {{ with.Site.Params.banner.image}}
-  <figure class="featured-media">
-    <div class="featured-media-inner section-inner">
-      <img width="1200" height="769" src="{{ . | absURL }}"
-        class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
-        sizes="(max-width: 1200px) 100vw, 1200px" />
-    </div>
-  </figure>
-  {{end}}
-
   <div class="post-inner thin">
     <div class="entry-content">
-      {{ with .Site.Params.blog.heading }}
-      <div class="wp-block-group alignwide">
-        <div class="wp-block-group__inner-container">
-          <h2 class="has-text-align-center">{{ . | markdownify }}</h2>
-        </div>
-      </div>
-      {{ end }}
-      <div class="wp-block-columns columns alignwide">
-        {{ range (where .Site.RegularPages "Section" "blog")}}
-        <div class="column">
-          <div class="wp-block-group">
-            <div class="wp-block-group__inner-container">
-              <h3>{{ .Title }}</h3>
-              <p>{{ .PublishDate.Format "January 02, 2006"}}</p>
-              <div class="wp-block-button is-style-outline"><a class="wp-block-button__link"
-                  href="{{ .Permalink }}">Read More</a></div>
-            </div>
-          </div>
-        </div>
-        {{ end }}
-      </div>
-
       {{ $categories := .Site.Taxonomies.categories }}
       {{ range $name, $taxonomy := $categories }}
-      <h2>{{ $name }}</h2>
+      {{ if in $.Site.Params.blog.categories $name }}
+      <h2 class="has-text-align-center">{{ humanize $name | title }}</h2>
       <div class="wp-block-columns columns alignwide">
         {{ range $taxonomy.Pages }}
         <div class="column">
@@ -60,6 +29,7 @@
         </div>
         {{ end }}
       </div>
+      {{ end }}
       {{ end }}
 
       {{ if .Site.Params.call_to_action.enable }}
@@ -79,20 +49,6 @@
       {{ end }}
       {{ end }}
 
-      
-      {{ if .Site.Params.gallery.enable }}
-      {{ with .Site.Params.gallery }}
-      <figure class="wp-block-gallery alignwide columns-2 is-cropped">
-        <ul class="blocks-gallery-grid">
-          {{ range .gallery_item }}
-          <li class="blocks-gallery-item">
-            <figure><img src="{{ .image | absURL }}"/></figure>
-          </li>
-          {{ end }}
-        </ul>
-      </figure>
-      {{ end }}
-      {{ end }}
     </div><!-- .entry-content -->
   </div><!-- .post-inner -->
 </article>
