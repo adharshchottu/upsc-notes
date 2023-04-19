@@ -2,6 +2,7 @@
 author: 
 - augu
 categories: 
+- notes
 - gs3
 - indian economy
 date: 2022-10-09T18:30:00Z

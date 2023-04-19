@@ -2,6 +2,7 @@
 author: 
 - augu
 categories: 
+- notes
 - history
 - GS1
 date: 2022-10-31T18:30:00Z
