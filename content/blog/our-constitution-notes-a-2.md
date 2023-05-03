@@ -5,7 +5,7 @@ categories:
   - notes
   - Constitution
   - gs2
-date: '2023-04-13T18:30:00.000Z'
+date: '2023-01-11T18:30:00.000Z'
 description: our constitution notes by augu
 tags:
   - notes
