@@ -1,6 +1,6 @@
 ---
 title: Geography Questions
-date: 2020-03-14T15:40:24.000+06:00
+date: 2023-02-26T15:40:24.000+06:00
 image: images/2020-three-quarters-4.png
 author:
 - augu

@@ -5,7 +5,7 @@ categories:
   - gs4
   - Questions
   - Ethics
-date: '2022-10-04T18:30:00.000Z'
+date: 2023-02-02T18:30:00Z
 description: Ethics Questions
 tags:
   - Ethics

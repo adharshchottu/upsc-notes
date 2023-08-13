@@ -5,7 +5,7 @@ categories:
 - GS2
 - Questions
 - Constitution
-date: 2022-10-05T18:30:00Z
+date: 2023-02-20T18:30:00Z
 description: Constitution Questions
 tags: 
 - Constitution

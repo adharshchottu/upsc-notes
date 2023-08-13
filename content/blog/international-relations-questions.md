@@ -5,7 +5,7 @@ categories:
 - gs2
 - Questions
 - International Relations
-date: 2022-10-05T18:30:00Z
+date: 2023-02-16T18:30:00Z
 description: "International Relations Questions"
 tags: 
 - International Relations

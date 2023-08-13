@@ -5,7 +5,7 @@ categories:
 - GS2
 - Questions
 - Governance
-date: 2022-10-05T18:30:00Z
+date: 2023-02-22T18:30:00Z
 description: "Governance Questions"
 tags: 
 - Governance

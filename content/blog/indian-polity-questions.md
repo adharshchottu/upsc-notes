@@ -5,7 +5,7 @@ categories:
 - GS2
 - Questions
 - Indian Polity
-date: 2022-10-05T18:30:00Z
+date: 2023-02-18T18:30:00Z
 description: "Indian Polity Questions"
 tags: 
 - Indian Polity

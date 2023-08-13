@@ -1,6 +1,6 @@
 ---
 title: History Questions
-date: 2020-03-14T15:40:24.000+06:00
+date: 2023-02-28T15:40:24.000+06:00
 author:
 - augu
 categories:

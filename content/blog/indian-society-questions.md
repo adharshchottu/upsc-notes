@@ -5,7 +5,7 @@ categories:
 - GS1
 - questions
 - indian society
-date: 2022-09-18T18:30:00Z
+date: 2023-02-24T18:30:00Z
 description: "Indian Society Questions"
 tags: 
 - Indian Society

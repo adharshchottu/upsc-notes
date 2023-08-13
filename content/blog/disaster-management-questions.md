@@ -5,7 +5,7 @@ categories:
 - GS3
 - Questions
 - Disaster Management
-date: 2022-10-05T18:30:00Z
+date: 2023-02-08T18:30:00Z
 description: Disaster Management Questions
 tags: 
 - Questions
