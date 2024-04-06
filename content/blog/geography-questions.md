@@ -90,3 +90,21 @@ description: Geography Questions
 19. Discuss the natural resource potentials of Deccan Trap’. **[Region] [10 marks] [2022]**
 20. Examine the potential of wind energy in India and explain the reasons for their limited spatial spread. **[Wind] [10 marks] [2022]**
 21. Describing the distribution of rubber producing countries, indicate the major environmental issues faced by them. **[Rubber] [15 marks] [2022]**
+
+
+###  Factors responsible for location of Industries (primary, secondary, tertiary; India, world)
+
+1. Analyze the factors for highly decentralized cotton textile industry in India. **[Cotton] [5 Marks] [2013]**
+2. Do you agree that there is a growing trend of opening new sugar mills in the Southern states of India? Discuss with justification **[Sugar] [5 Marks] [2013]**
+3. Why did the Green Revolution in India virtually by-pass the eastern region despite fertile soil and good availability of water? **[GR] [10 Marks] [2014]**
+4. Account for the change in the spatial pattern of the Iron and Steel industry in the world. **[Iron and steel] [10 Marks] [2014]**
+5. Whereas the British planters had developed tea gardens all along the Shivaliks and Lesser Himalayas from Assam to Himachal Pradesh, in effect they did not succeed beyond the Darjeeling area. Explain. **[Tea] [10 Marks] [2014]**
+6. Explain the factors responsible for the origin of ocean currents. How do they influence regional climates, fishing and navigation? **[Fishing] [12.5 Marks] [2015]**
+7. Petroleum refineries are not necessarily located nearer to crude oil producing areas, particularly in many of the developing countries. Explain its implications. **[Oil] [15 Marks] [2017]**
+8. What is the significance of Industrial Corridors in India? Identify industrial corridors, explain their main characteristics. **[Region] [15 Marks] [2018]**
+9. Define blue revolution, explain the problems and strategies for pisciculture development in India. **[BR] [15 Marks] [2018]**
+10. Discuss the factors for localization of agro-based food processing industries of North-West India. **[Agro] [10 Marks] [2019]**
+11. Account for the present location of iron and steel industries away from the source of raw material, by giving examples. **[Iron and steel] [10 Marks] [2020]**
+12. Despite India being one of the countries of  the  Gondwanaland, its mining industry contributes much less to its Gross Domestic Product (GDP) in percentage. Discuss. **[Region] [10 Marks] [2021]**
+13. What are the forces that influence ocean currents? Describe their role in fishing Industry of the world. **[Fishing] [15 Marks] [2022]**
+14. Mention the significance of straits and isthmus in international trade. **[Region] [15 Marks] [2022]**

@@ -57,3 +57,39 @@ title: "Indian Society Questions"
 9. COVID-19 pandemic accelerated class inequalities and poverty in India. Comment. **[Poverty] [10 marks] [2020]**
 10. Discuss the main objectives of Population Education and point out the measures to achieve them in India in detail. **[Population] [15 marks] [2021]**
 11. What is Cryptocurrency? How does it affect global security? Has it been affecting Indian society also? **[Development issues] [15 marks] [2021]**
+
+### Urbanization problems and remedies.
+
+1. Discussion the various social problems which originated out of the speedy process of urbanization in India. **[Social Problems] [10 Marks] [2013]** 
+2. Smart cities in India cannot sustain without smart villages. Discuss this statement in the backdrop of rural urban integration. **[Integration] [12.5 Marks] [2015]** 
+3. Mumbai, Delhi and Kolkata are the three mega cities of the country but the air pollution is much more serious problem in Delhi as compared to the other two. Why is this so?   **[Pollution] [12.5 Marks] [2015]**
+4. Major cities of India are becoming more vulnerable to flood conditions. Discuss. **[Flood] [12.5 Marks] [2016]**
+5. With a brief background of quality of urban life in India, introduce the objectives and strategy of the ‘Smart City Programme’. **[Programme] [12.5 Marks] [2016]**
+6. The growth of cities as I.T. hubs has opened up new avenues employment but has also created new problems. Substantiate this statement with examples. **[Social Problems] [15 Marks] [2017]**
+7. “The ideal solution of depleting ground water resources in India is water harvesting system.” How can it be made effective in urban areas? **[Resource] [15 Marks] [2018]**
+8. How is efficient and affordable urban mass transport key to the rapid economic development of India? **[Transport] [15 Marks] [2019]**
+9. Account for the huge flooding of million cities in India including the smart ones like Hyderabad and Pune. Suggest lasting remedial measures. **[Flood] [15 Marks] [2020]**
+8. What are the main socio-economic implications arising out of development of IT industries in major cities of India **[Social Problems] [15 Marks] [2021]**
+9. How is the growth of Tier 2 cities related to the rise of a new middle class with an emphasis on the culture of consumption? **[Social Problems] [10 Marks] [2022]**
+
+###  Effects of Globalization on Indian society
+
+1. Critically examine the effects of globalization on the aged population in India. **[Aged] [10 Marks] [2013]**
+2. To what extent globalization has influenced the core of cultural diversity in India? Explain. **[Culture] [12.5 Marks] [2016]**
+3. Discuss the positive and negative effects of globalization on women in India. **[Women] [12.5 Marks] [2015]**
+4. ‘Globalization is generally said to promote cultural homogenization but due to this cultural specificities appear to be strengthened in the Indian Society. Elucidate. **[Culture] [15 Marks] [2018]**
+5. Are we losing our local identity for the global identity? Discuss. **[Identity] [15 Marks] [2019]**
+6. Explore and evaluate the impact of ‘Work From Home’ on family relationships. **[Relationship] [10 Marks] [2022]**
+7. Elucidate the relationship between globalization and new technology in a world of scarce resources, with special reference to India. **[Technology] [15 Marks] [2022]**
+
+###  Role of women and women’s organisation
+
+1. Male membership needs to be encouraged in order to make women’s organization free from gender bias. Comment. **[Bias] [10 Marks] [2013]**
+2. Why do some of the most prosperous regions of India have an adverse sex ratio for women? Give your arguments. **[Sex ratio] [10 Marks] [2014]**
+3. Discuss the various economic and socio-cultural forces that are driving increasing feminization of agriculture in India. **[Feminization] [10 Marks] [2014]**
+4. How does patriarchy impact the position of a middle class working woman in India? **[Work] [10 Marks] [2014]**
+5. How do you explain the statistics that show that the sex ratio in Tribes in India is more favourable to women than the sex ratio among Scheduled Castes? **[Sex ratio] [12.5 Marks] [2015]**
+6. ‘Women’s movement in India has not addressed the issues of women of lower social strata. Substantiate your view. **[Movements] [15 Marks] [2018]**
+7. What are the continued challenges for women in India against time and space? **[Challenges] [15 Marks] [2019]**
+8. “Empowering women is the key to control population growth”. Discuss **[Empowerment] [10 Marks] [2019]**
+9. Examine the role of ‘Gig Economy’ in the process of empowerment of women in India. **[Work] [10 Marks] [2021]**
