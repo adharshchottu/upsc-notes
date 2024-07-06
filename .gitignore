@@ -8,3 +8,6 @@ static/admin/.gitignore
 .tina/__generated__/_lookup.json
 .tina/__generated__/_schema.json
 .tina/__generated__/.gitignore
+
+node_modules
+.env

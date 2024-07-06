@@ -12,7 +12,7 @@ tags:
 title: "Indian Polity Questions"
 
 ---
- 1. How have the recommendations of the 14th France Commission of India enabled the States to improve their fiscal position? **\[2021\]**
+ 1. How have the recommendations of the 14th Finance Commission of India enabled the States to improve their fiscal position? **\[2021\]**
  2. “Besides being a moral imperative of a Welfare State, primary health structure is a necessary precondition for sustainable development.” **\[2021\]**
  3. “‘Earn while you learn’ scheme needs to be strengthened to make vocational education and skill training meaningful” **\[2021\]**
  4. Though the Human Rights Commissions have contributed immensely to the protection of human rights in India, yet they have failed to assert themselves against the mighty and powerful. Analysing their structural and practical limitations, suggest remedial measures. **\[2021\]**
